@@ -1,0 +1,33 @@
+a{
+	color: blue;
+}
+body{
+	background-color: #EEEEEE;
+}
+h1{
+	font-weight: bold;
+	font-size: 25px;
+	color: green;
+}
+img{
+	width:40px;
+	height:40px;
+}
+#showWordPanel{
+	opacity: 1;
+}
+#newWordDialog{
+	background-color: #D1EFB3;
+	position: absolute;
+	width: 350px;
+	height: 150px;
+	top: 350px;
+	left: 450px;
+	border-style: outset;
+	border-color: gray;
+	border: 14px;
+	font-size: 1.7em;
+	font-weight: bold;
+	color: blue;
+	text-align: center;
+}

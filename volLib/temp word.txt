@@ -1,0 +1,2089 @@
+	<word>	 abbreviation         n.节略，缩写，缩短		</word>
+		<word>	   abide                vt.遵守 vt.忍受		</word>
+		<word>	   abolish              vt.废除，取消		</word>
+		<word>	   absent               a.不在意的		</word>
+		<word>	   absorption           n.吸收；专注		</word>
+		<word>	   abstract             a.理论上的 n.抽象		</word>
+		<word>	   absurd               a.不合理的，荒唐的		</word>
+		<word>	   abundance            n.丰富，充裕		</word>
+		<word>	   accessory            n.同谋 a.附属的		</word>
+		<word>	   accord               n.调和，符合；协议		</word>
+		<word>	   acknowledge          vt.承认；告知收到		</word>
+		<word>	   acquaint             vt.使认识，使了解		</word>
+		<word>	   action               n.作用；情节		</word>
+		<word>	   adhere               vi.粘附；追随；坚持		</word>
+		<word>	   adjacent             a.毗连的；紧接着的		</word>
+		<word>	   adjoin               vt.贴近，毗连；靠近		</word>
+		<word>	   adjustable           a.可调整的，可校准的		</word>
+		<word>	   administration       n.局(或署、处等)		</word>
+		<word>	   admiration           n.钦佩；赞美，羡慕		</word>
+		<word>	   adoption             n.收养；采纳，采取		</word>
+		<word>	   adore                vt.崇拜；很喜欢		</word>
+		<word>	   advantageous         a.有利的，有助的		</word>
+		<word>	   advertise            vt.通知 vi.登广告		</word>
+		<word>	   advocate             n.辩护者 vt.拥护		</word>
+		<word>	   aerial               a.空气的；航空的		</word>
+		<word>	   aerospace            n.航空和宇宙航行空间		</word>
+		<word>	   affirm               vt.断言，批准；证实		</word>
+		<word>	   agitation            n.鼓动，煸动；搅动		</word>
+		<word>	   agreeable            a.惬意的；同意的		</word>
+		<word>	   alas                 int.唉，哎呀		</word>
+		<word>	   album                n.粘贴簿；相册；文选		</word>
+		<word>	   alert                a.警惕的；活跃的		</word>
+		<word>	   algebra              n.代数学		</word>
+		<word>	   alien                a.外国的 n.外国人		</word>
+		<word>	   alignment            n.队列；结盟，联合		</word>
+		<word>	   allied               a.联合的；联姻的		</word>
+		<word>	   allowance            n津贴，补助费		</word>
+		<word>	   alongside            prep.在…旁边		</word>
+		<word>	   ally                 n.盟国，同盟者，伙伴		</word>
+		<word>	   alteration           n.变更，改变；蚀变		</word>
+		<word>	   alternate            vt.使交替 a.交替的		</word>
+		<word>	   amateur              a.业余的n.业余爱好者		</word>
+		<word>	   ambassador           n.大使，使节		</word>
+		<word>	   ambient              a.周围的，包围着的		</word>
+		<word>	   ambiguous            a.模棱两可的；分歧的		</word>
+		<word>	   ambitious            a.有雄心的；热望的		</word>
+		<word>	   ample                a.足够的；宽敞的		</word>
+		<word>	   amplitude            n.广大；充足；振幅		</word>
+		<word>	   amusement            n.娱乐，消遣，乐趣		</word>
+		<word>	   analogue             n.类似物；同源语		</word>
+		<word>	   analogy              n.相似，类似；比拟		</word>
+		<word>	   analytic(al)         a.分析的；分解的		</word>
+		<word>	   anniversary          n.周年纪念日		</word>
+		<word>	   announce             vt.报告…的来到		</word>
+		<word>	   annually             ad.年年，每年		</word>
+		<word>	   anode                n.阳极，正极，板极		</word>
+		<word>	   answer               vi.符合，适合		</word>
+		<word>	   antarctic            a.南极的 n.南极区		</word>
+		<word>	   antenna              n.触角；天线		</word>
+		<word>	   antique              a.古代的 n.古物		</word>
+		<word>	   anybody              n.重要人物		</word>
+		<word>	   apparent             a.显然的		</word>
+		<word>	   appendix             n.附录，附属物；阑尾		</word>
+		<word>	   applaud              vt.喝彩；欢呼vi.欢呼		</word>
+		<word>	   applause             n.喝彩；夸奖，称赞		</word>
+		<word>	   appreciable          a.可估价的；可察觉的		</word>
+		<word>	   appreciation         n.欣赏；鉴别；感激		</word>
+		<word>	   apt                  a.恰当的；聪明的		</word>
+		<word>	   arc                  n.弧，弓形物；弧光		</word>
+		<word>	   arch                 n.拱门 vt.用拱连接		</word>
+		<word>	   architect            n.建筑师；创造者		</word>
+		<word>	   arctic               a.北极的 n.北极		</word>
+		<word>	   array                vt.装扮 n.队列；排列		</word>
+		<word>	   ascend               vi.攀登，登高；追溯		</word>
+		<word>	   ascertain            vt.查明，确定，弄清		</word>
+		<word>	   ascribe              vt.把…归于		</word>
+		<word>	   ashore               ad.在岸上，上岸		</word>
+		<word>	   ass                  n.驴；傻瓜，蠢笨的人		</word>
+		<word>	   assassinate          vt.暗杀，行刺；中伤		</word>
+		<word>	   assault              vt.袭击；殴打 n.攻击		</word>
+		<word>	   assert               vt.断言，宣称；维护		</word>
+		<word>	   assessment           n.估定；查定；估计数		</word>
+		<word>	   assumption           n.采取；假定；傲慢		</word>
+		<word>	   assurance            n.保证；财产转让书		</word>
+		<word>	   astonishment         n.惊奇，惊讶		</word>
+		<word>	   astronomy            n.天文学		</word>
+		<word>	   atom                 n.微粒；微量		</word>
+		<word>	   attachment           n.连接物，附件；爱慕		</word>
+		<word>	   attendance           n.到场；出席人数		</word>
+		<word>	   attendant            n.侍者；护理人员		</word>
+		<word>	   attorney             n.代理人；辩护律师		</word>
+		<word>	   audience             n.正式会见；拜会		</word>
+		<word>	   author               n.创造者，创始人		</word>
+		<word>	   automate             vt.使自动化		</word>
+		<word>	   avail                vt.有益于 n.效用		</word>
+		<word>	   availability         n.有效(性)；可得性		</word>
+		<word>	   aviation             n.飞行		</word>
+		<word>	   awake                vi.认识到		</word>
+		<word>	   awful                a.威严的；令人崇敬的		</word>
+		<word>	   awkward              a.不雅观的		</word>
+		<word>	   axial                a.轴的；轴向的		</word>
+		<word>	   axis                 n.轴，轴线；第二颈椎		</word>
+		<word>	   axle                 n.(轮)轴，车轴，心棒		</word>
+		<word>	   baby                 n.一家中年龄最小的人		</word>
+		<word>	   bachelor             n.未婚男子；学士		</word>
+		<word>	   bacon                n.咸猪肉，熏猪肉		</word>
+		<word>	   bacterium            n.细菌；拳击迷		</word>
+		<word>	   badge                n.徽章，像章；标志		</word>
+		<word>	   baffle               vt.使挫折 n.迷惑		</word>
+		<word>	   bait                 n.饵；引诱物		</word>
+		<word>	   balcony              n.阳台；楼厅，楼座		</word>
+		<word>	   bald                 a.秃头的；无毛的		</word>
+		<word>	   ballet               n.芭蕾舞；舞剧		</word>
+		<word>	   bamboo               n.竹；竹杆，竹棍		</word>
+		<word>	   bandage              n.绷带，包带		</word>
+		<word>	   bandit               n.土匪，盗匪，歹徒		</word>
+		<word>	   bank                 vi.把钱存入银行		</word>
+		<word>	   banker               n.银行家		</word>
+		<word>	   bankrupt             a.破产的 vt.使破产		</word>
+		<word>	   banquet              n.宴会，盛会，酒席		</word>
+		<word>	   barely               ad.仅仅，勉强		</word>
+		<word>	   barge                n.驳船；大型游船		</word>
+		<word>	   barley               n.大麦		</word>
+		<word>	   barometer            n.气压计，睛雨表		</word>
+		<word>	   baron                n.男爵；贵族；巨商		</word>
+		<word>	   barren               a.贫瘠的；不妊的		</word>
+		<word>	   baseball             n.棒球；棒球运动		</word>
+		<word>	   basement             n.地下室；地窖；底层		</word>
+		<word>	   basin                n.内海；盆地，流域		</word>
+		<word>	   battery              n.炮兵连；兵器群		</word>
+		<word>	   battle               vi.战斗 vt.与…作战		</word>
+		<word>	   bazaar               n.集市，廉价商店		</word>
+		<word>	   bead                 n.有孔小珠；露珠		</word>
+		<word>	   beam                 vi.发光，发热；微笑		</word>
+		<word>	   bearing              n.支承；忍受；方位		</word>
+		<word>	   bed                  n.河床，(湖)底，矿床		</word>
+		<word>	   beetle               n.甲虫；近视眼的人		</word>
+		<word>	   beforehand           ad.预先；提前地		</word>
+		<word>	   bend                 vt.使屈从 vi.屈从		</word>
+		<word>	   bestow               vt.把…赠与		</word>
+		<word>	   between              ad.当中，中间		</word>
+		<word>	   beware               vt.&vi.谨防，当心		</word>
+		<word>	   bewilder             vt.迷惑，把…弄糊涂		</word>
+		<word>	   bid                  vt.命令 vi.报价		</word>
+		<word>	   bishop               n.(基督教的)主教		</word>
+		<word>	   bitterness           n.苦味，辛酸，苦难		</word>
+		<word>	   blacksmith           n.铁匠，锻工		</word>
+		<word>	   blast                n.管乐器的声音		</word>
+		<word>	   blaze                vt.使燃烧 vi.燃烧		</word>
+		<word>	   bleach               vt.漂白 vi.变白		</word>
+		<word>	   blind                n.百叶窗；窗帘；遮帘		</word>
+		<word>	   block                n.阻塞；障碍物；炮闩		</word>
+		<word>	   blond                n.白肤金发碧眼的人		</word>
+		<word>	   blouse               n.女衬衫；童衫；罩衫		</word>
+		<word>	   blue                 a.伤心的；下流的		</word>
+		<word>	   blunder              vi.犯大错 n.大错		</word>
+		<word>	   blush                vi.脸红，害臊 n.脸红		</word>
+		<word>	   board                vt.(收费)供…膳食		</word>
+		<word>	   body                 n.物体；(液)体；实质		</word>
+		<word>	   boiler               n.锅炉；热水贮槽		</word>
+		<word>	   bore                 n.讨厌的人；麻烦事		</word>
+		<word>	   bound                a.应当的；必定的		</word>
+		<word>	   bourgeois            a.资产阶级的；平庸的		</word>
+		<word>	   box                  n.专席		</word>
+		<word>	   boycott              vt.&n.联合抵制		</word>
+		<word>	   brace                n.支柱 vt.拉紧，撑牢		</word>
+		<word>	   brand                vt.在…上打烙印		</word>
+		<word>	   breakdown            n.崩溃，倒塌；失败		</word>
+		<word>	   breakfast            vi.吃早餐		</word>
+		<word>	   breed                n.(动物)品种		</word>
+		<word>	   bribe                n.贿赂 vt.向…行贿		</word>
+		<word>	   bridegroom           n.新郎		</word>
+		<word>	   bridge               vt.架桥于，用桥连接		</word>
+		<word>	   bridle               n.笼子；束缚 vt.抑制		</word>
+		<word>	   brightness           n.明亮，辉煌，聪明		</word>
+		<word>	   broaden              vt.&vi.放宽，变阔		</word>
+		<word>	   bronze               n.青铜色		</word>
+		<word>	   brood                vt.沉思vi.郁闭地沉思		</word>
+		<word>	   Buddhism             n.佛教，释教		</word>
+		<word>	   budget               n.预算，预算案		</word>
+		<word>	   buffalo              n.水牛；水陆坦克		</word>
+		<word>	   bug                  n.虫子；臭虫		</word>
+		<word>	   bugle                n.军号，喇叭		</word>
+		<word>	   bull                 n.买空的证券投机商		</word>
+		<word>	   bulletin             告示，公告，公报		</word>
+		<word>	   bump                 vt.撞击 vi.撞 n.肿块		</word>
+		<word>	   bureaucracy          n.官僚主义；官僚机构		</word>
+		<word>	   burglar              n.夜盗，窃贼		</word>
+		<word>	   burial               n.安葬，埋葬，埋藏		</word>
+		<word>	   burner               n.灯头，煤气头		</word>
+		<word>	   bushel               n.蒲式耳(容量单位)		</word>
+		<word>	   butt                 n.大酒桶，桶		</word>
+		<word>	   buzz                 vi.(蜂等)嗡嗡叫		</word>
+		<word>	   bypass               n.旁通管 vt.绕过		</word>
+		<word>	   by-product           n.副产品		</word>
+		<word>	   cable                n.海底电报		</word>
+		<word>	   calculus             n.微积分；结石		</word>
+		<word>	   calibration          n.校准；标定，刻度		</word>
+		<word>	   can                  vt.装罐头		</word>
+		<word>	   cane                 n.(藤等)茎；手杖		</word>
+		<word>	   cancel               vt.删去，勾销，取消		</word>
+		<word>	   capability           n.能力，才能；性能		</word>
+		<word>	   capacitance          n.电容，电容量		</word>
+		<word>	   capacitor            n.电容器		</word>
+		<word>	   cape                 n.披肩，斗篷；海角		</word>
+		<word>	   captive              a.被俘虏的；被迷住的		</word>
+		<word>	   carry                vt.刊登		</word>
+		<word>	   cartoon              n.漫画，动画片		</word>
+		<word>	   cartridge            n.弹药筒，子弹；软片		</word>
+		<word>	   catalogue            vt.为…编目录		</word>
+		<word>	   catalyst             n.催化剂；刺激因素		</word>
+		<word>	   category             n.种类，类目；范畴		</word>
+		<word>	   cater                vi.迎合，投合		</word>
+		<word>	   Catholic             a.天主教的n.天主教徒		</word>
+		<word>	   caution              n.小心；告诫 vt.警告		</word>
+		<word>	   cautious             a.小心的，谨慎的		</word>
+		<word>	   cavity               n.洞，穴，空腔		</word>
+		<word>	   cement               vt.粘结 vi.粘紧		</word>
+		<word>	   censor               vt.审查，检查		</word>
+		<word>	   cereal               n.谷类，五谷，禾谷		</word>
+		<word>	   certainty            n.确实性，确信，确实		</word>
+		<word>	   challenge            n.艰巨任务；要求回避		</word>
+		<word>	   champion             n.斗士；提倡者		</word>
+		<word>	   characterize         vt.表示…的特性		</word>
+		<word>	   charcoal             n.炭，木炭；生物炭		</word>
+		<word>	   charge               n.负荷；充电 vt.装满		</word>
+		<word>	   charm                n.魅力；妩媚 vi.迷人		</word>
+		<word>	   charter              vt.租 n.宪章；契据		</word>
+		<word>	   chatter              vi.&n.喋喋不休		</word>
+		<word>	   cheat                n.欺诈；骗取		</word>
+		<word>	   check                n.支票，帐单		</word>
+		<word>	   cherish              vt.珍爱；怀有(感情)		</word>
+		<word>	   chestnut             n.栗子；栗树；栗色		</word>
+		<word>	   chill                vi.感到寒冷；冷淬		</word>
+		<word>	   chip                 n.薄片，碎片		</word>
+		<word>	   choice               n.入选者 a.优等的		</word>
+		<word>	   chop                 n.一块排骨，肉块		</word>
+		<word>	   chord                n.(乐器的)弦 vi.协调		</word>
+		<word>	   chorus               vt.&vi.合唱		</word>
+		<word>	   Christ               n.救世主(耶稣基督)		</word>
+		<word>	   Christian            a.基督教的		</word>
+		<word>	   cigar                n.雪茄烟，叶卷烟		</word>
+		<word>	   circular             n.传单，通报，通函		</word>
+		<word>	   circulation          n.循环；(货币等)流通		</word>
+		<word>	   circus               n.马戏；马戏团		</word>
+		<word>	   cite                 vt.引用，引证；举例		</word>
+		<word>	   civilian             n.平民 a.平民的		</word>
+		<word>	   claim                n.权利，所有权		</word>
+		<word>	   clamp                n.夹子 vt.夹住，夹紧		</word>
+		<word>	   clap                 n.拍手喝采声；霹雳声		</word>
+		<word>	   clash                n.碰撞声；抵触，冲突		</word>
+		<word>	   clasp                vt.扣住，扣紧，钩住		</word>
+		<word>	   classic              n.名著 a.不朽的		</word>
+		<word>	   clatter              n.得得声，卡嗒声		</word>
+		<word>	   cleanliness          n.清洁		</word>
+		<word>	   clearing             n.(森林中的)空旷地		</word>
+		<word>	   client               n.顾客；诉讼委托人		</word>
+		<word>	   climax               n.(兴趣的)顶点		</word>
+		<word>	   cling                vi.粘住；依附；坚持		</word>
+		<word>	   clinic               n.诊所，医务室；会诊		</word>
+		<word>	   clip                 vt.夹住 n.夹子，钳子		</word>
+		<word>	   clip                 vt.剪；剪辑报刊		</word>
+		<word>	   cloak                vt.掩盖，覆盖，掩饰		</word>
+		<word>	   clockwise            a.&ad.顺时针方向转的		</word>
+		<word>	   closet               n.小房间；壁碗橱		</word>
+		<word>	   cloudy               a.混浊的；模糊不清的		</word>
+		<word>	   clown                n.(马戏的)小丑，丑角		</word>
+		<word>	   cluster              n.一串 vt.使成群		</word>
+		<word>	   clutch               vt.抓住 vi.掌握，攫		</word>
+		<word>	   coach                vt.辅导，指导，训练		</word>
+		<word>	   cock                 n.旋塞，开关，龙头		</word>
+		<word>	   coefficient          n.协同因素；系数，率		</word>
+		<word>	   coffin               n.棺材，柩		</word>
+		<word>	   coherent             a.粘着的；紧凑的		</word>
+		<word>	   coin                 vt.铸造(硬币)		</word>
+		<word>	   coincide             vi.相符合；相巧合		</word>
+		<word>	   coke                 n.焦炭 vt.&vi.炼焦		</word>
+		<word>	   collaborate          vi.协作，合作；协调		</word>
+		<word>	   collide              vi.碰撞；冲突，抵触		</word>
+		<word>	   colonial             a.殖民地的，殖民的		</word>
+		<word>	   colonist             n.移民；殖民地居民		</word>
+		<word>	   combat               vt.跟…战斗 vi.格斗		</word>
+		<word>	   combustion           n.燃烧；氧化；骚动		</word>
+		<word>	   comedy               n.喜剧；喜剧场面		</word>
+		<word>	   commence             vt.开始 vi.获得学位		</word>
+		<word>	   commend              vt.称赞，表扬；推荐		</word>
+		<word>	   commission           n.委托，委任；委托状		</word>
+		<word>	   commodity            n.日用品，商品，物品		</word>
+		<word>	   commonplace          a.平凡的 n.平常话		</word>
+		<word>	   commonsense          a.有常识的		</word>
+		<word>	   commonwealth         n.共和国；联邦		</word>
+		<word>	   compact              a.紧密的 vt.使紧凑		</word>
+		<word>	   comparable           a.可比较的；类似的		</word>
+		<word>	   compatible           a.一致的；兼容制的		</word>
+		<word>	   compensate           vt.&vi.补偿，赔偿		</word>
+		<word>	   compensation         n.补偿，赔偿，赔偿费		</word>
+		<word>	   competitive          a.竞争的，比赛的		</word>
+		<word>	   competitor           n.竞争者，敌手		</word>
+		<word>	   complaint            n.疾病，病痛；主诉		</word>
+		<word>	   complement           vt.补充 n.补足(物)		</word>
+		<word>	   completion           n.完成，结束，完满		</word>
+		<word>	   complexity           n.复杂(性)		</word>
+		<word>	   complication         n.复杂，混乱；并发症		</word>
+		<word>	   compliment           n.问候 vt.赞美，祝贺		</word>
+		<word>	   comply               vi.应允，遵照，照做		</word>
+		<word>	   composer             n.作曲家；调停人		</word>
+		<word>	   composite            a.合成的 n.合成物		</word>
+		<word>	   composition          n.组成，构成，结构		</word>
+		<word>	   comprehend           vt.了解，理解，领会		</word>
+		<word>	   compression          n.压缩，压紧，浓缩		</word>
+		<word>	   compulsory           a.强迫的，义务的		</word>
+		<word>	   conceit              n.自负，自高自大		</word>
+		<word>	   conceive             vt.设想，以为；怀孕		</word>
+		<word>	   concentrate          vt.&vi.浓缩，提浓		</word>
+		<word>	   conception           n.概念，观念，想法		</word>
+		<word>	   concern              n.所关切的事；商行		</word>
+		<word>	   concert              n.一齐，一致，协作		</word>
+		<word>	   concession           n.让步，迁就		</word>
+		<word>	   confidence           n.私房话，秘密，机密		</word>
+		<word>	   confidential         a.秘密的；亲信的		</word>
+		<word>	   confirmation         n.证实，确定；确认		</word>
+		<word>	   conform              vt.使遵守 vi.一致		</word>
+		<word>	   confront             vt.使面对；使对证		</word>
+		<word>	   conqueror            n.征服者，胜利者		</word>
+		<word>	   consciousness        n.意识，知觉，觉悟		</word>
+		<word>	   consequence          n.重要(性)，重大意义		</word>
+		<word>	   consequent           a.作为结果的；必然的		</word>
+		<word>	   conservative         a.有保存力的，防腐的		</word>
+		<word>	   consistent           a.前后一致的，连贯的		</word>
+		<word>	   console              n.悬臂，肘托；控制台		</word>
+		<word>	   consolidate          vt.巩固 vi.合并		</word>
+		<word>	   constituent          a.形成的 n.选民		</word>
+		<word>	   constitute           vt.构成，组成		</word>
+		<word>	   constitution         n.(人的)体格，素质		</word>
+		<word>	   constraint           n.强迫，结束；强制力		</word>
+		<word>	   construction         n.结构；作图(法)		</word>
+		<word>	   consul               n.领事		</word>
+		<word>	   consumer             n.消费者，用户		</word>
+		<word>	   consumption          n.消费(量)，灭绝		</word>
+		<word>	   contend              vi.竞争 vt.坚决主张		</word>
+		<word>	   context              n.上下文；来龙去脉		</word>
+		<word>	   continental          a.大陆的，大陆性的		</word>
+		<word>	   contradict           vt.反驳，否认		</word>
+		<word>	   contrary             n.反对命题		</word>
+		<word>	   contrast             vt.使对比vi.形成对比		</word>
+		<word>	   controversy          n.争论，辩论，争吵		</word>
+		<word>	   convention           n.公约，(换俘等)协定		</word>
+		<word>	   convert              vt.转变，改变，变换		</word>
+		<word>	   convey               vt.传达；传播；转让		</word>
+		<word>	   conviction           n.确信，信服，深信		</word>
+		<word>	   cooperative          a.合作的 n.合作社		</word>
+		<word>	   coordinate           a.同等的 n.同等的人		</word>
+		<word>	   correctly            ad.正确地，恰当地		</word>
+		<word>	   correlate            n.互相关联的事物		</word>
+		<word>	   correlation          n.相互关系；对射		</word>
+		<word>	   correspondence       n.通信；符合；对应		</word>
+		<word>	   corrosion            n.腐蚀，侵蚀；锈		</word>
+		<word>	   corrupt              vt.贿赂 a.腐败的		</word>
+		<word>	   cosmic               a.宇宙的；广大无边的		</word>
+		<word>	   cosmos               n.宇宙；秩序，和谐		</word>
+		<word>	   couch                n.睡椅，长沙发椅		</word>
+		<word>	   counsel              n.商议；忠告；律师		</word>
+		<word>	   count                n.起拆理由，罪状		</word>
+		<word>	   counter              a.&ad.相反的(地)		</word>
+		<word>	   courageous           a.勇敢的，无畏的		</word>
+		<word>	   courteous            a.有礼貌的，谦恭的		</word>
+		<word>	   courtesy             n.礼貌，谦恭，请安		</word>
+		<word>	   coward               a.懦怯的，胆小的		</word>
+		<word>	   crab                 n.蟹，蟹肉 vi.捕蟹		</word>
+		<word>	   crack                vi.&vt.发出爆裂声		</word>
+		<word>	   cradle               n.摇篮，发源地		</word>
+		<word>	   craft                n.技巧		</word>
+		<word>	   crank                n.曲柄 vi.转动曲柄		</word>
+		<word>	   crash                vi.撞坏，摔坏，砸碎		</word>
+		<word>	   credit               vt.&n.相信，信任		</word>
+		<word>	   crisis               n.危机；转折点		</word>
+		<word>	   crisp                a.脆的；卷曲的		</word>
+		<word>	   criterion            n.标准，准则，尺度		</word>
+		<word>	   crooked              a.弯的，歪的；畸形的		</word>
+		<word>	   cross                a.易怒的；杂交的		</word>
+		<word>	   cruelty              n.残酷；残酷行为		</word>
+		<word>	   cruise               vi.巡航 vt.巡航于…		</word>
+		<word>	   cubic                a.立方体的；立方的		</word>
+		<word>	   cuckoo               n.杜鹃，布谷鸟		</word>
+		<word>	   curly                a.卷曲的；有卷毛的		</word>
+		<word>	   currency             n.通货；通用；市价		</word>
+		<word>	   currently            ad.普遍地；当前		</word>
+		<word>	   custom               n.海关，关税		</word>
+		<word>	   customary            a.通常的；照惯例的		</word>
+		<word>	   cutter               n.用于切割的器械		</word>
+		<word>	   cylinder             n.圆筒；柱(面)；汽缸		</word>
+		<word>	   damn                 vt.诅咒 n.诅咒；丝毫		</word>
+		<word>	   datum                n.资料；数据；已知数		</word>
+		<word>	   dazzle               vt.&vi.炫耀；迷惑		</word>
+		<word>	   deafen               vt.使聋；使隔音		</word>
+		<word>	   deal                 vi.做买卖；对付		</word>
+		<word>	   dealer               n.商人，贩子；发牌者		</word>
+		<word>	   dean                 n.(大学)院长，系主任		</word>
+		<word>	   decay                vt.使腐朽，使腐烂		</word>
+		<word>	   decidedly            ad.明确地，坚决地		</word>
+		<word>	   decimal              a.小数的，十进制的		</word>
+		<word>	   decisive             a.决定性的；果断的		</word>
+		<word>	   declaration          n.宣布，宣言；申诉		</word>
+		<word>	   decline              vt.下倾；偏斜；衰退		</word>
+		<word>	   decompose            vt.&vi.腐败；分解		</word>
+		<word>	   decorative           a.装饰的；可作装饰的		</word>
+		<word>	   decree               n.法令，政令；教令		</word>
+		<word>	   dedicate             vt.奉献；献身		</word>
+		<word>	   deem                 vt.认为，相信 vi.想		</word>
+		<word>	   deepen               vt.加浓		</word>
+		<word>	   default              n.&vi.不履行；缺席		</word>
+		<word>	   deficiency           n.缺乏；不足之数		</word>
+		<word>	   deficient            a.缺乏的；欠缺的		</word>
+		<word>	   define               vt.规定；立(界限)		</word>
+		<word>	   deflect              vt.&vi.(使)偏斜		</word>
+		<word>	   deflection           n.偏斜，歪斜；偏差		</word>
+		<word>	   deform               vt.损坏…的形状		</word>
+		<word>	   deformation          n.损坏；变形；畸形		</word>
+		<word>	   defy                 vt.向…挑战；蔑视		</word>
+		<word>	   degradation          n.降级；退化；衰变		</word>
+		<word>	   degrade              vt.使降给；使堕落		</word>
+		<word>	   delegate             n.代表，委员，特派员		</word>
+		<word>	   deliberate           a.深思熟虑的；审慎的		</word>
+		<word>	   deliberately         ad.审慎地，故意地		</word>
+		<word>	   denial               n.否定；拒绝相信		</word>
+		<word>	   denote               vt.指示，意味着		</word>
+		<word>	   denounce             vt.谴责，声讨；告发		</word>
+		<word>	   dentist              n.牙科医生		</word>
+		<word>	   dependant            n.受赡养者；侍从		</word>
+		<word>	   deposit              n.押金；寄存物		</word>
+		<word>	   deposition           n.免职，罢免；口供		</word>
+		<word>	   depression           n.消沉；不景气萧条期		</word>
+		<word>	   deprive              vt.夺去；使(人)失去		</word>
+		<word>	   deputy               n.代理人 a.副的		</word>
+		<word>	   derivation           n.引出；起源；衍生		</word>
+		<word>	   descendant           n.子孙，后裔；弟子		</word>
+		<word>	   descent              n.下降；出身；斜坡		</word>
+		<word>	   desert               vt.遗弃；擅离(职守)		</word>
+		<word>	   designate            vt.指出，指示；指定		</word>
+		<word>	   desolate             a.荒芜的；孤独的		</word>
+		<word>	   dessert              n.甜点心		</word>
+		<word>	   destine              vt.命定，注定；预定		</word>
+		<word>	   destiny              n.命运，天数		</word>
+		<word>	   destructive          a.破坏(性)的，危害的		</word>
+		<word>	   detach               vt.分开；派遣(军队)		</word>
+		<word>	   detail               n.琐碎，小事		</word>
+		<word>	   detain               vt.耽搁；扣押，拘留		</word>
+		<word>	   detective            n.侦探，密探		</word>
+		<word>	   detector             n.发觉者，探测器		</word>
+		<word>	   develop              vt.使(颜色等)显现		</word>
+		<word>	   deviate              vt.(使)背离，偏离		</word>
+		<word>	   deviation            n.背离，偏离；偏差数		</word>
+		<word>	   devotion             n.献身，热诚，专心		</word>
+		<word>	   devour               vt.吞食；吞灭，毁灭		</word>
+		<word>	   diagnose             vt.诊断(疾病)		</word>
+		<word>	   dictator             n.独裁者，专政者		</word>
+		<word>	   diesel               n.柴油发动机，内燃机		</word>
+		<word>	   diet                 n.饮食，食物		</word>
+		<word>	   difficult            a.难以满足的		</word>
+		<word>	   dignity              a.尊贵；(举止)庄严		</word>
+		<word>	   diminish             vt.减少，减小，递减		</word>
+		<word>	   dine                 vi.吃饭 vt.宴请		</word>
+		<word>	   dioxide              n.二氧化物		</word>
+		<word>	   diploma              n.毕业文凭，学位证书		</word>
+		<word>	   diplomatic           a.外交的；有策略的		</word>
+		<word>	   directory            n.姓名地址录；董事会		</word>
+		<word>	   disagreement         n.不一致；争论		</word>
+		<word>	   disappearance        n.消失，消散；失踪		</word>
+		<word>	   disastrous           a.灾难性的；悲惨的		</word>
+		<word>	   discern              vt.看出，辨出；辨别		</word>
+		<word>	   discount             n.折扣；打折扣卖		</word>
+		<word>	   discourse            n.讲话，演说，讲道		</word>
+		<word>	   discrimination       n.辨别；识别力；歧视		</word>
+		<word>	   disgrace             n.失宠，耻辱，丢脸		</word>
+		<word>	   disillusion          n.觉醒 vt.使觉醒		</word>
+		<word>	   dismay               n.惊慌，沮丧，灰心		</word>
+		<word>	   dismiss              vt.忘掉		</word>
+		<word>	   disorder             n.疾病，小病		</word>
+		<word>	   dispatch             vt.派遣；调度 n.急件		</word>
+		<word>	   disperse             vt.(使)分散；驱散		</word>
+		<word>	   displace             vt.移置；取代；置换		</word>
+		<word>	   displacement         n.移置；免职；置换		</word>
+		<word>	   disregard            vt.不管，不顾 n.不管		</word>
+		<word>	   dissatisfaction      n.不满，不平		</word>
+		<word>	   dissipate            vt.驱散；浪费vi.消散		</word>
+		<word>	   dissolve             vt.解除(婚约等)		</word>
+		<word>	   distinct             a.独特的		</word>
+		<word>	   distinctly           ad.显然，清楚地		</word>
+		<word>	   distinguish          v.使显出特色，使杰出		</word>
+		<word>	   distort              vt.歪曲，曲解，扭曲		</word>
+		<word>	   distortion           n.弄歪，歪曲；畸变		</word>
+		<word>	   distract             vt.分散(心思)；打扰		</word>
+		<word>	   disturbance          n.动乱；干扰；侵犯		</word>
+		<word>	   diverge              vi.分岔；分歧		</word>
+		<word>	   diversion            n.转移；改道；娱乐		</word>
+		<word>	   divert               vt.使转向 vi.转移		</word>
+		<word>	   divine               a.神的；敬神的		</word>
+		<word>	   dizzy                a.头晕眼花的，眩晕的		</word>
+		<word>	   dock                 vt.把…引入船坞		</word>
+		<word>	   doctrine             n.教义，主义；学说		</word>
+		<word>	   documentary          a.纪录的，文献的		</word>
+		<word>	   dome                 n.圆屋顶，拱顶		</word>
+		<word>	   domestic             a.养在家里的		</word>
+		<word>	   dominant             a.统治的 n.主因		</word>
+		<word>	   dominate             vt.统治，支配，控制		</word>
+		<word>	   doom                 n.命运，毁灭 vt.注定		</word>
+		<word>	   doubtless            ad.无疑地；很可能		</word>
+		<word>	   dove                 n.鸽子，斑鸠		</word>
+		<word>	   drain                vi.(水等)流掉		</word>
+		<word>	   drainage             n.排水；下水道		</word>
+		<word>	   drama                n.戏剧性事件；戏剧性		</word>
+		<word>	   drastic              a.激烈的；严厉的		</word>
+		<word>	   drawback             n.退款；妨碍；弊端		</word>
+		<word>	   dreadful             a.可怕的；令人敬畏的		</word>
+		<word>	   dry                  a.干巴巴的，枯燥的		</word>
+		<word>	   duke                 n.公爵，君主；手		</word>
+		<word>	   duplicate            n.复制品 vt.复制		</word>
+		<word>	   dust                 n.垃圾，废品，灰烬		</word>
+		<word>	   dwarf                n.矮子，侏儒		</word>
+		<word>	   dwell                n.居住 vi.凝思，细想		</word>
+		<word>	   dynamic(al)          a.机能上的		</word>
+		<word>	   dynamo               n.发电机		</word>
+		<word>	   ear                  n.(稻麦等的)穗		</word>
+		<word>	   earnings             n.工资，收入；收益		</word>
+		<word>	   earthenware          n.陶器		</word>
+		<word>	   eastward             a.&ad.向东的，向东		</word>
+		<word>	   echo                 vt.反射(声音等)		</word>
+		<word>	   eclipse              n.(日，月)食		</word>
+		<word>	   ecology              n.生态学；个体生态学		</word>
+		<word>	   economically         ad.节约地，在经济上		</word>
+		<word>	   economics            n.经济学；经济		</word>
+		<word>	   edit                 vt.编辑，编纂；校订		</word>
+		<word>	   editorial            n.社论，期刊的社论		</word>
+		<word>	   Egyptian             a.埃及的 n.埃及人		</word>
+		<word>	   eject                vt.逐出，排斥；喷射		</word>
+		<word>	   elapse               vi.(时间)过去，消逝		</word>
+		<word>	   elbow                vt.用肘挤，挤进		</word>
+		<word>	   electrician          n.电工，电气技师		</word>
+		<word>	   electrode            n.电极；电焊条		</word>
+		<word>	   electronics          n.电子学		</word>
+		<word>	   elegant              a.(举止、服饰)雅致的		</word>
+		<word>	   elemental            a.基本的；自然力的		</word>
+		<word>	   elevate              vt.提高(思想)；抬高		</word>
+		<word>	   elevation            n.高度；标高；隆肿		</word>
+		<word>	   elliptical           a.椭圆的；省略的		</word>
+		<word>	   eloquence            n.雄辩；口才，修辞		</word>
+		<word>	   embarrass            vt.使负债；使复杂化		</word>
+		<word>	   embassy              n.大使馆；大使的职务		</word>
+		<word>	   embody               vt.体现；包含，收录		</word>
+		<word>	   embrace              vt.包括，包含；包围		</word>
+		<word>	   embroidery           n.绣花，刺绣；绣制品		</word>
+		<word>	   emerge               vi.浮现，出现；显露		</word>
+		<word>	   emigrate             vi.永久移居国外		</word>
+		<word>	   emission             n.散发；传播；发出物		</word>
+		<word>	   empirical            a.经验主义的		</word>
+		<word>	   enchant              vt.迷住；用魔法迷惑		</word>
+		<word>	   enclosure            n.围绕；围场，围栏		</word>
+		<word>	   end                  n.目标，目的		</word>
+		<word>	   endanger             vt.危及，危害		</word>
+		<word>	   endeavor             vi.&n.努力，尽力		</word>
+		<word>	   endow                vt.资助；赋予，授予		</word>
+		<word>	   endurance            n.耐久力，持久力		</word>
+		<word>	   energetic            a.积极的；精力旺盛的		</word>
+		<word>	   energize             vt.给与…能量；电压		</word>
+		<word>	   engage               vt.使(齿轮等)啮合		</word>
+		<word>	   engagement           n.婚约；约会，债务		</word>
+		<word>	   enhance              vt.提高，增加；夸张		</word>
+		<word>	   enlighten            vt.启发，开导；启蒙		</word>
+		<word>	   enrich               vt.使富裕；使丰富		</word>
+		<word>	   enroll               vt.登记，招收vi.参军		</word>
+		<word>	   enterprise           n.艰巨的事业；事业心		</word>
+		<word>	   entertainment        n.招待，招待会		</word>
+		<word>	   entitle              vt.把…称作		</word>
+		<word>	   entreat              vt.&vi.恳求		</word>
+		<word>	   entry                n.通道；条目		</word>
+		<word>	   environmental        a.环境的，环境产生的		</word>
+		<word>	   episode              n.一段情节；插曲		</word>
+		<word>	   epoch                n.(新)时代；历元		</word>
+		<word>	   equation             n.平衡；平均；反应式		</word>
+		<word>	   equator              n.赤道，天球赤道		</word>
+		<word>	   equilibrium          n.平衡，均衡；均衡论		</word>
+		<word>	   equivalent           a.等面(体)积的		</word>
+		<word>	   erect                a.竖起的		</word>
+		<word>	   erosion              n.腐蚀，侵蚀；糜烂		</word>
+		<word>	   errand               n.差使，差事		</word>
+		<word>	   escort               n.&vt.护卫，护送		</word>
+		<word>	   essence              n.本质，本体；精华		</word>
+		<word>	   essential            a.特发的；自发的		</word>
+		<word>	   establish            vt.使…被永久地接受		</word>
+		<word>	   estate               n.房地产；财产，产业		</word>
+		<word>	   eternal              n.永久的；不朽的		</word>
+		<word>	   evaporate            vt.使脱水vi.发散蒸气		</word>
+		<word>	   even                 a.同一日期的		</word>
+		<word>	   evenly               ad.一致地，平静地		</word>
+		<word>	   everlasting          a.永久的；持久的		</word>
+		<word>	   evil                 n.邪恶，罪恶；祸害		</word>
+		<word>	   evolution            n.开方；(天体的)形成		</word>
+		<word>	   excel                vt.胜过 vi.杰出		</word>
+		<word>	   except               vt.把…除外，除去		</word>
+		<word>	   exceptional          a.例外的；优越的		</word>
+		<word>	   excess               n.过度行为，暴行		</word>
+		<word>	   excessively          ad.过分，极端地		</word>
+		<word>	   exclamation          n.呼喊，惊叫；感叹		</word>
+		<word>	   exclusive            a.除外的；孤傲的		</word>
+		<word>	   excursion            n.离题		</word>
+		<word>	   excuse               vt.与…辩解；使免除		</word>
+		<word>	   execution            n.实行，执行；处死刑		</word>
+		<word>	   executive            n.总经理，董事		</word>
+		<word>	   exemplify            vt.举例证明(解释)		</word>
+		<word>	   exert                vt.发挥(威力)，施加		</word>
+		<word>	   exile                vt.流放 n.被流放者		</word>
+		<word>	   expect               vt.料想，认为		</word>
+		<word>	   expedition           n.探险；探险队		</word>
+		<word>	   expenditure          n.(时间等)支出，消费		</word>
+		<word>	   expel                vt.驱逐，开除；排出		</word>
+		<word>	   experimentally       ad.实验上，实验性地		</word>
+		<word>	   experimentation      n.实验，试验；实验法		</word>
+		<word>	   expire               vi.满期，到期；断气		</word>
+		<word>	   explicit             a.明晰的；直率的		</word>
+		<word>	   exploration          n.考察；勘探；探查		</word>
+		<word>	   exposition           n.说明，解释；陈列		</word>
+		<word>	   extinct              a.绝种的；熄灭了的		</word>
+		<word>	   extinguish           vt.熄灭，扑灭；消灭		</word>
+		<word>	   extra                n.附加物；额外的人手		</word>
+		<word>	   extract              vt.取出；榨取 n.摘录		</word>
+		<word>	   extraction           n.抽出；提取法；摘要		</word>
+		<word>	   extraordinarily      ad.非常地，特别地		</word>
+		<word>	   extravagant          a.奢侈的；过度的		</word>
+		<word>	   extreme              n.极端不同的性质		</word>
+		<word>	   fabricate            vt.制作，组合；捏造		</word>
+		<word>	   fabrication          n.制作，构成；捏造		</word>
+		<word>	   facilitate           vt.使容易；助长		</word>
+		<word>	   faction              n.派别，宗派，小集团		</word>
+		<word>	   fair                 a.美丽的		</word>
+		<word>	   fake                 n.假货，膺品 a.假的		</word>
+		<word>	   fall                 vi.变成，成为；陷于		</word>
+		<word>	   fantastic            a.空想的；奇异的		</word>
+		<word>	   fascinate            vt.迷住 vi.迷人		</word>
+		<word>	   fastener             n.扣件，钮扣，揿钮		</word>
+		<word>	   faultless            a.无过失的；无缺点的		</word>
+		<word>	   fearless             a.无畏的，大胆的		</word>
+		<word>	   feel                 vi.摸起来		</word>
+		<word>	   fell                 vt.砍倒(树等)；砍伐		</word>
+		<word>	   fellowship           n.伙伴关系；联谊会		</word>
+		<word>	   feminine             a.女性的；女子气的		</word>
+		<word>	   fence                n.击剑(术) vi.击剑		</word>
+		<word>	   ferrous              a.铁的；亚铁的		</word>
+		<word>	   ferry                n.渡船；渡口 vt.运送		</word>
+		<word>	   fertile              a.(创造力)丰富的		</word>
+		<word>	   fighter              n.斗争者；战斗机		</word>
+		<word>	   filament             n.细丝；长丝；灯丝		</word>
+		<word>	   fill                 vt.担任(职务)；填补		</word>
+		<word>	   filter               vi.滤过		</word>
+		<word>	   filth                n.污秽，污物；淫猥		</word>
+		<word>	   finance              vt.提供资金		</word>
+		<word>	   finely               ad.精细地，美好地		</word>
+		<word>	   finite               a.有限的；有尽的		</word>
+		<word>	   fireplace            n.壁炉		</word>
+		<word>	   firework             n.爆竹，花炮，烟火		</word>
+		<word>	   firmness             n.坚固，坚定，稳固		</word>
+		<word>	   first-rate           a.第一流的，优秀的		</word>
+		<word>	   fission              n.裂开；分裂生殖		</word>
+		<word>	   fitness              n.适当，恰当；健康		</word>
+		<word>	   fitting              a.适当的 n.配合		</word>
+		<word>	   fixture              n.固定；定期存款		</word>
+		<word>	   flake                n.片，薄片；肌膈		</word>
+		<word>	   flame                vi.发火焰 vt.点燃		</word>
+		<word>	   flank                n.肋，肋腹；侧面		</word>
+		<word>	   flannel              n.法兰绒；法兰绒衣服		</word>
+		<word>	   flap                 vt.&n.拍打 vi.拍动		</word>
+		<word>	   flask                n.瓶；火药筒；砂箱		</word>
+		<word>	   flatten              vt.把…弄平；击倒		</word>
+		<word>	   flatter              vt.奉承，阿谀，谄媚		</word>
+		<word>	   flavour              vt.给…调味		</word>
+		<word>	   flaw                 n.缺点，瑕疵；裂隙		</word>
+		<word>	   flee                 vi.逃走 vt.逃避		</word>
+		<word>	   flexible             a.灵活的，可变通的		</word>
+		<word>	   flight               n.溃退，逃跑；外流		</word>
+		<word>	   fling                vi.&vt.(用力)扔，抛		</word>
+		<word>	   float                n.漂浮物；浮标，木筏		</word>
+		<word>	   flock                vi.群集，聚集		</word>
+		<word>	   fluctuate            vi.波动 vt.使波动		</word>
+		<word>	   fluctuation          n.波动；脉动；踌躇		</word>
+		<word>	   flush                n.兴奋，脸红；发烧		</word>
+		<word>	   flutter              vi.(鸟)振翼；飘动		</word>
+		<word>	   flux                 n.流；涨潮；流量		</word>
+		<word>	   fly                  v.飞跑，逃跑，消失		</word>
+		<word>	   foam                 n.泡沫；泡沫塑料		</word>
+		<word>	   follow               vt.从事(职业)，经营		</word>
+		<word>	   follower             n.契据的附面；从动件		</word>
+		<word>	   footpath             n.小路，人行道		</word>
+		<word>	   fore                 ad.在前面 a.先前的		</word>
+		<word>	   foreign              a.无关的		</word>
+		<word>	   foresee              vt.预见，预知，看穿		</word>
+		<word>	   forge                vt.打(铁等)，锻造		</word>
+		<word>	   formal               a.形态的；规范的		</word>
+		<word>	   formerly             ad.以前，从前		</word>
+		<word>	   formidable           a.可怕的；难对付的		</word>
+		<word>	   formulate            vt.用公式表示		</word>
+		<word>	   formulation          n.明确的表达		</word>
+		<word>	   forsake              vt.遗弃，抛弃，摒绝		</word>
+		<word>	   fort                 n.要塞，堡垒		</word>
+		<word>	   forthcoming          a.即将到来的；现有的		</word>
+		<word>	   fortress             n.堡垒，要塞		</word>
+		<word>	   forum                n.论坛，讨论会		</word>
+		<word>	   forward              ad.向前，将来vt.转递		</word>
+		<word>	   fossil               n.化石 a.化石的		</word>
+		<word>	   foster               vt.养育，抚养；培养		</word>
+		<word>	   foul                 a.肮脏的；丑恶的		</word>
+		<word>	   fowl                 n.家禽；禽肉		</word>
+		<word>	   fraction             n.分数；分馏的部分		</word>
+		<word>	   fracture             n.破裂；裂痕 vi.破裂		</word>
+		<word>	   fragile              a.脆的；体质弱的		</word>
+		<word>	   fragrant             a.香的，芬芳的		</word>
+		<word>	   frail                a.脆弱的；意志薄弱的		</word>
+		<word>	   framework            n.机构，组织，体制		</word>
+		<word>	   freight              n.运费；货运；负担		</word>
+		<word>	   frequency            n.频繁，屡次；频率		</word>
+		<word>	   frequent             a.常见的；频繁的		</word>
+		<word>	   freshen              vt.使显得新鲜		</word>
+		<word>	   fret                 vt.&vi.(使)烦恼		</word>
+		<word>	   friction             n.擦热皮肤		</word>
+		<word>	   fright               n.惊吓，恐怖		</word>
+		<word>	   frightful            a.可怕的；讨厌的		</word>
+		<word>	   fringe               n.穗，毛边；边缘		</word>
+		<word>	   fro                  ad.往，去，回，向后		</word>
+		<word>	   frock                n.(女)上衣，罩衫		</word>
+		<word>	   frustrate            vt.挫败；使无效		</word>
+		<word>	   furious              a.狂暴的；强烈的		</word>
+		<word>	   further              vt.增进		</word>
+		<word>	   fury                 n.狂怒，暴怒；猛烈		</word>
+		<word>	   fuse                 n.保险丝，导火线		</word>
+		<word>	   fuss                 n.忙乱；吹捧 vi.忙乱		</word>
+		<word>	   gamble               n.赌博 vt.冒…的险		</word>
+		<word>	   gangster             n.匪徒，歹徒，暴徒		</word>
+		<word>	   gap                  n.山口，山峡；差距		</word>
+		<word>	   garage               n.汽车修理站；飞机库		</word>
+		<word>	   garlic               n.蒜，大蒜		</word>
+		<word>	   garment              n.衣服；服装，衣着		</word>
+		<word>	   gather               vt.推测，推断		</word>
+		<word>	   gathering            n.集会，聚会，聚集		</word>
+		<word>	   gear                 n.齿轮，传动装置		</word>
+		<word>	   generalization       n.一般化；概括，综合		</word>
+		<word>	   generalize           vt.概括出vi.形成概念		</word>
+		<word>	   generate             vt.发生，产生；生成		</word>
+		<word>	   generosity           n.慷慨，宽宏大量		</word>
+		<word>	   geographical         a.地理的；地区(性)的		</word>
+		<word>	   geology              n.地质学；(某地)地质		</word>
+		<word>	   geometrical          a.几何学的		</word>
+		<word>	   germ                 n.细菌，病原菌；幼芽		</word>
+		<word>	   gesture              vi.(讲话时等)做手势		</word>
+		<word>	   gigantic             a.巨大的；巨人似的		</word>
+		<word>	   ginger               n.姜，生姜		</word>
+		<word>	   gleam                n.微光 vi.发微光		</word>
+		<word>	   glider               n.滑翔机；滑翔导弹		</word>
+		<word>	   global               a.球面的；全球的		</word>
+		<word>	   glorify              vt.赞美(上帝)；颂扬		</word>
+		<word>	   glossary             n.词汇表；术语汇编		</word>
+		<word>	   glue                 vt.粘牢		</word>
+		<word>	   gnaw                 vt.啃，咬断 vi.啮		</word>
+		<word>	   goddess              n.女神；绝世美女		</word>
+		<word>	   goodness             n.善良，善行，美德		</word>
+		<word>	   gorilla              n.大猩猩；暴徒，打手		</word>
+		<word>	   gorgeous             a.绚丽的；极好的		</word>
+		<word>	   gossip               n.闲谈；碎嘴子；漫笔		</word>
+		<word>	   govern               vt.决定，支配；控制		</word>
+		<word>	   grab                 vt.&vi.攫取，抓取		</word>
+		<word>	   gracious             a.谦和的		</word>
+		<word>	   gradient             n.斜坡 a.倾斜的		</word>
+		<word>	   gramophone           n.留声机		</word>
+		<word>	   granite              a.花岗岩，花岗石		</word>
+		<word>	   grant                n.授予物，拨款		</word>
+		<word>	   graphite             n.石墨，石墨电极		</word>
+		<word>	   grasshopper          n.蚱蜢，蝗虫，蚂蚱		</word>
+		<word>	   grassy               a.草多的；草似的		</word>
+		<word>	   grateful             a.可喜的，令人愉快的		</word>
+		<word>	   gravel               n.砂跞；砂砾层；结石		</word>
+		<word>	   graze                vi.喂草；放牧(牲畜)		</word>
+		<word>	   grease               n.动物脂，脂肪		</word>
+		<word>	   greed                n.贪心，贪婪		</word>
+		<word>	   grief                n.悲哀，悲痛，悲伤		</word>
+		<word>	   grim                 a.冷酷无情的，严厉的		</word>
+		<word>	   grin                 vi.咧着嘴笑		</word>
+		<word>	   grind                vt.折磨，压榨		</word>
+		<word>	   groove               n.槽 vt.开槽于		</word>
+		<word>	   grope                vi.(暗中)摸索，探索		</word>
+		<word>	   gross                a.(语言、举止)粗俗的		</word>
+		<word>	   grove                n.林子，小树林，园林		</word>
+		<word>	   growl                vi.(狗等)嗥叫；咆哮		</word>
+		<word>	   grumble              vi.抱怨，发牢骚		</word>
+		<word>	   grunt                vi.作呼噜声；咕哝		</word>
+		<word>	   guilt                n.有罪，犯罪；内疚		</word>
+		<word>	   guitar               n.吉他，六弦琴		</word>
+		<word>	   gust                 n.阵风，一阵狂风		</word>
+		<word>	   gutter               n.沟，边沟；檐槽		</word>
+		<word>	   hail                 vt.向…欢呼 vi.招呼		</word>
+		<word>	   halve                vt.对分；平摊		</word>
+		<word>	   ham                  n.火腿；(兽类的)后踝		</word>
+		<word>	   hamper               vt.妨碍，阻碍，牵制		</word>
+		<word>	   handbook             n.手册，便览，指南		</word>
+		<word>	   handicap             vt.妨碍，使不利		</word>
+		<word>	   handout              n.施舍物，救济品		</word>
+		<word>	   handy                a.方便的；便于使用的		</word>
+		<word>	   harbour              vt.隐匿，窝藏；怀着		</word>
+		<word>	   hard                 a.(酒)烈性的		</word>
+		<word>	   hardy                a.强壮的，耐劳的		</word>
+		<word>	   harmonious           a.和谐的，协调的		</word>
+		<word>	   harp                 n.竖琴；天琴座		</word>
+		<word>	   harsh                a.粗糙的；严厉的		</word>
+		<word>	   hatch                vt.舱盖，舱口；短门		</word>
+		<word>	   haughty              a.傲慢的，轻蔑的		</word>
+		<word>	   haul                 vt.拖曳；拖运		</word>
+		<word>	   haunt                vt.常去 vi.经常出没		</word>
+		<word>	   hazard               vt.使遭危险 n.危险		</word>
+		<word>	   head                 vt.用头顶(球)vi.出发		</word>
+		<word>	   heading              n.标题，题词，题名		</word>
+		<word>	   headlong             a.&ad.头向前的(地)		</word>
+		<word>	   headquarters         n.总局，总店		</word>
+		<word>	   hearth               n.壁炉地面；炉边		</word>
+		<word>	   heater               n.加热的人，加热器		</word>
+		<word>	   hearty               a.衷心的；丰盛的		</word>
+		<word>	   heave                vt.(用力地)举起；抛		</word>
+		<word>	   Heaven               n.上帝，神		</word>
+		<word>	   heighten             vt.加高，提高；增加		</word>
+		<word>	   hemisphere           n.半球；半球地图		</word>
+		<word>	   henceforth           ad.今后，从今以后		</word>
+		<word>	   herald               ad.传令官；通报者		</word>
+		<word>	   herb                 n.草本植物；香草		</word>
+		<word>	   herd                 vt.放牧 vi.成群		</word>
+		<word>	   hesitate             vi.含糊，支吾；口吃		</word>
+		<word>	   hide                 n.生皮，兽皮，皮革		</word>
+		<word>	   hike                 vi.作长途徒步旅行		</word>
+		<word>	   hindrance            n.障碍，妨碍		</word>
+		<word>	   hinge                n.合页，折叶，铰链		</word>
+		<word>	   hip                  n.臀部，髋；屋脊		</word>
+		<word>	   hiss                 n.嘶嘶声 vi.嘶嘶作声		</word>
+		<word>	   historian            n.历史学家；编史家		</word>
+		<word>	   historic             a.历史的；历史性的		</word>
+		<word>	   hit                  n.轰动一时的人(或事)		</word>
+		<word>	   hitherto             ad.迄今，到目前为止		</word>
+		<word>	   hoarse               a.(声音)嘶哑的		</word>
+		<word>	   hoe                  vt.&vi.锄地		</word>
+		<word>	   hoist                vt.升起 vi.扯起来		</word>
+		<word>	   hollow               vt.凿空 vi.变空		</word>
+		<word>	   homely               a.家庭的；家常的		</word>
+		<word>	   homogeneous          a.同类的；均匀的		</word>
+		<word>	   hook                 vt.用钩连接，用钩挂		</word>
+		<word>	   hop                  vi.跳舞；(人)单足跳		</word>
+		<word>	   horizon              n.层位		</word>
+		<word>	   horn                 n.角状物，角制品		</word>
+		<word>	   hose                 n.长筒袜；软管		</word>
+		<word>	   hospitality          n.好客，殷勤；宜人		</word>
+		<word>	   hostage              n.人质，抵押品		</word>
+		<word>	   hostess              n.女主人；旅馆女老板		</word>
+		<word>	   hostile              a.敌对的；不友好的		</word>
+		<word>	   hound                n.狗；角鲨；卑鄙的人		</word>
+		<word>	   house                n.议院，会议厅		</word>
+		<word>	   hover                vi.徘徊；傍徨；翱翔		</word>
+		<word>	   howl                 n.嚎叫；哀号 vi.吠		</word>
+		<word>	   hug                  vt.搂 n.紧紧拥抱		</word>
+		<word>	   hull                 n.外壳，豆荚；薄膜		</word>
+		<word>	   hum                  n.嗡嗡声 vt.哼曲子		</word>
+		<word>	   humanitarian         a.博爱的 n.慈善家		</word>
+		<word>	   humanity             n.人类；人性，人情		</word>
+		<word>	   humidity             n.湿气；湿度		</word>
+		<word>	   hurl                 vt.猛投 vi.猛冲		</word>
+		<word>	   hurrah               int.好哇，万岁，乌拉		</word>
+		<word>	   hurricane            n.飓风，十二级风		</word>
+		<word>	   hurt                 n.损伤，伤害，创伤		</word>
+		<word>	   hush                 n.沉默 int.嘘！		</word>
+		<word>	   hydraulic            a.水力的；水力学的		</word>
+		<word>	   hydrocarbon          n.烃，碳氢化合物		</word>
+		<word>	   hymn                 n.赞美诗，圣歌；赞歌		</word>
+		<word>	   hypothesis           n.假设；前提		</word>
+		<word>	   ice                  vt.使成冰 vi.结冰		</word>
+		<word>	   icy                  a.冰冷的；冷冰冰的		</word>
+		<word>	   idealism             n.唯心主义；理想主义		</word>
+		<word>	   ideally              ad.理想地；理论上		</word>
+		<word>	   identical            a.同一的；恒等的		</word>
+		<word>	   identification       n.认出，鉴定；身份证		</word>
+		<word>	   idiot                n.白痴；傻子		</word>
+		<word>	   idleness             n.懒惰；赋闲无事		</word>
+		<word>	   ignite               vt.引燃 vi.着火		</word>
+		<word>	   ignorance            n.无知，无学，愚昧		</word>
+		<word>	   illiterate           a.文盲的 n.文盲		</word>
+		<word>	   illuminate           vt.照明，照亮；阐明		</word>
+		<word>	   illusion             n.幻想；错觉；假象		</word>
+		<word>	   imitation            n.仿制品，伪制物		</word>
+		<word>	   immerse              vt.沉浸；给…施洗礼		</word>
+		<word>	   immigrate            vt.(使)移居入境		</word>
+		<word>	   immortal             a.不朽的；永生的		</word>
+		<word>	   impart               vt.给予，传递；告诉		</word>
+		<word>	   impartial            a.公正的，无偏见的		</word>
+		<word>	   implement            n.工具，服装 vt.贯彻		</word>
+		<word>	   implore              vt.乞求，恳求，哀求		</word>
+		<word>	   impose               vi.利用；欺骗		</word>
+		<word>	   impress              vt.盖印，在…打记号		</word>
+		<word>	   improper             a.不适当的；不合理的		</word>
+		<word>	   impulse              n.推动，冲力；冲动		</word>
+		<word>	   impurity             n.不纯；杂质；不道德		</word>
+		<word>	   inaccessible         a.达不到的，难接近的		</word>
+		<word>	   inaccurate           a.不精密的，不准确的		</word>
+		<word>	   inadequate           a.不充足的，不适当的		</word>
+		<word>	   inasmuch             ad.因为，由于		</word>
+		<word>	   inaugurate           vt.开始；使就职		</word>
+		<word>	   incapable            a.无能力的；无资格的		</word>
+		<word>	   incense              n.香，熏香；香气		</word>
+		<word>	   incidence            n.发生，影响；入射		</word>
+		<word>	   incidentally         ad.附带地；顺便提及		</word>
+		<word>	   inclination          n.倾斜，点头；斜坡		</word>
+		<word>	   incline              n.坡度		</word>
+		<word>	   inclusive            a.包围住的；包括的		</word>
+		<word>	   incompatible         a.不相容的		</word>
+		<word>	   incomplete           a.不完全的，未完成的		</word>
+		<word>	   incorporate          vt.结合，合并，收编		</word>
+		<word>	   incredible           a.难以置信的，惊人的		</word>
+		<word>	   indefinite           a.无限期的		</word>
+		<word>	   indicative           a.指示的；陈述的		</word>
+		<word>	   indignation          n.愤怒，愤慨，义愤		</word>
+		<word>	   indispensable        a.必不可少的，必需的		</word>
+		<word>	   individual           a.特殊的		</word>
+		<word>	   indoor               a.室内的；室内进行的		</word>
+		<word>	   induce               vt.劝诱；引起；感应		</word>
+		<word>	   induction            n.就职；归纳推理		</word>
+		<word>	   indulge              vt.放纵(感情)vi.纵情		</word>
+		<word>	   industrious          a.勤劳的，勤奋的		</word>
+		<word>	   inertia              n.惯性，惯量；无力		</word>
+		<word>	   inevitably           ad.不可避免地		</word>
+		<word>	   infect               vt.使受影响		</word>
+		<word>	   infectious           a.传染的；感染性的		</word>
+		<word>	   infer                vt.&vi.猜想，臆测		</word>
+		<word>	   inference            n.推论；推断的结果		</word>
+		<word>	   inferior             n.下级；晚辈，次品		</word>
+		<word>	   infinite             n.无限；无穷(大)		</word>
+		<word>	   infinitely           ad.无限地，无边地		</word>
+		<word>	   infinity             n.大量，大宗；无穷大		</word>
+		<word>	   inflation            n.通货膨胀，物价飞涨		</word>
+		<word>	   influence            n.势力，权势		</word>
+		<word>	   ingenious            a.机灵的；精巧制成的		</word>
+		<word>	   ingenuity            n.机灵；设计新颖		</word>
+		<word>	   ingredient           n.配料，成分		</word>
+		<word>	   inherent             a.固有的，生来的		</word>
+		<word>	   initial              a.词首的		</word>
+		<word>	   initially            ad.最初，开始		</word>
+		<word>	   initiate             vt.开始，创始；启蒙		</word>
+		<word>	   initiative           a.创始的 n.第一步		</word>
+		<word>	   inject               vt.注射；注满；喷射		</word>
+		<word>	   inland               a.国内的；内地的		</word>
+		<word>	   inlet                n.进口，水湾 vt.引进		</word>
+		<word>	   innovation           n.创新，改革，新设施		</word>
+		<word>	   innumerable          a.无数的，数不清的		</word>
+		<word>	   inorganic            a.无生物的；无机的		</word>
+		<word>	   input                vt.输入 n.输入		</word>
+		<word>	   insert               vi.(肌肉)附着		</word>
+		<word>	   insight              n.洞察力，洞悉，见识		</word>
+		<word>	   insignificant        a.无意义的；低微的		</word>
+		<word>	   insistent            a.坚持的；逼人注意的		</word>
+		<word>	   inspector            n.检查员；巡官		</word>
+		<word>	   inspiration          n.灵感；妙想；鼓舞		</word>
+		<word>	   instability          n.不稳定性；不坚决		</word>
+		<word>	   installment          n.分期付款		</word>
+		<word>	   instantaneous        a.瞬间的，即刻的		</word>
+		<word>	   instructor           n.指导者，教员		</word>
+		<word>	   instrumental         a.仪器的；有帮助的		</word>
+		<word>	   insulate             vt.使绝缘，使绝热		</word>
+		<word>	   insulator            n.隔离者；绝缘体		</word>
+		<word>	   intake               n.吸入；输入能量		</word>
+		<word>	   integral             a.组成的；整的		</word>
+		<word>	   integrate            vt.使结合，使并入		</word>
+		<word>	   integrity            n.诚实，正直		</word>
+		<word>	   intellect            n.理智，智力，才智		</word>
+		<word>	   intent               a.目不转睛的，热切的		</word>
+		<word>	   interact             vi.相互作用		</word>
+		<word>	   interconnect         vt.使互相联系		</word>
+		<word>	   intercourse          n.交际，往来，交流		</word>
+		<word>	   interface            n.分界面		</word>
+		<word>	   interior             n.内部 a.内部的		</word>
+		<word>	   intermediate         n.中间体；调解人		</word>
+		<word>	   interpret            vt.解释 vi.口译		</word>
+		<word>	   intervene            vi.干涉，干预；播进		</word>
+		<word>	   interview            vt.接见，会见，会谈		</word>
+		<word>	   intonation           n.语调，声调；发声		</word>
+		<word>	   introduce            vt.提出(议案等)		</word>
+		<word>	   invalid              n.病人 a.有病的		</word>
+		<word>	   invariably           ad.不变地，永恒地		</word>
+		<word>	   inversely            ad.相反地		</word>
+		<word>	   invoice              n.发票，发货清单		</word>
+		<word>	   ion                  n.离子		</word>
+		<word>	   irregularity         n.不规则；不整齐		</word>
+		<word>	   irrespective         a.不考虑的，不顾的		</word>
+		<word>	   irrigation           n.灌溉；冲洗法		</word>
+		<word>	   irritate             vt.激怒；引起不愉快		</word>
+		<word>	   Islam                n.伊斯兰教，回教		</word>
+		<word>	   ivory                n.象牙；牙质；乳白色		</word>
+		<word>	   jack                 n.起重器；传动装置		</word>
+		<word>	   jam                  n.堵塞 vt.使…堵塞		</word>
+		<word>	   jealousy             n.妒忌，嫉妒，猜忌		</word>
+		<word>	   jean                 n.斜纹布，牛仔裤		</word>
+		<word>	   jelly                n.冻，果子冻；胶状物		</word>
+		<word>	   jerk                 vt.猛地一拉 vi.急拉		</word>
+		<word>	   Jesus                n.耶稣		</word>
+		<word>	   jewellery            n.珠宝，珠宝饰物		</word>
+		<word>	   jingle               vt.&vi.(使)丁当响		</word>
+		<word>	   jog                  vt.使(马等)缓步行进		</word>
+		<word>	   jug                  n.带柄水罐，大壶		</word>
+		<word>	   junction             n.连接；接头；中继线		</word>
+		<word>	   jungle               n.丛林，密林，莽丛		</word>
+		<word>	   junior               n.年少者；晚辈		</word>
+		<word>	   Jupiter              n.丘庇特；木星		</word>
+		<word>	   kernel               n.(果实的)核；谷粒		</word>
+		<word>	   kidnap               vt.诱拐，绑架		</word>
+		<word>	   kidney               n.肾，腰子；性格		</word>
+		<word>	   kilowatt             n.千瓦(特)		</word>
+		<word>	   kindle               vt.点燃 vi.着火		</word>
+		<word>	   kinetic              a.动力(学)的；活动的		</word>
+		<word>	   kit                  n.成套工具；用具包		</word>
+		<word>	   knight               n.骑士，武士；爵士		</word>
+		<word>	   lace                 vi.系带，用带子束紧		</word>
+		<word>	   landscape            n.风景，景色，景致		</word>
+		<word>	   largely              ad.大规模地		</word>
+		<word>	   late                 a.去世不久的		</word>
+		<word>	   latent               a.存在但看不见的		</word>
+		<word>	   lathe                n.车床 vt.用车床加工		</word>
+		<word>	   latitude             n.纬度；黄纬		</word>
+		<word>	   lattice              n.格子；点阵，网络		</word>
+		<word>	   laundry              n.送洗衣店去洗的东西		</word>
+		<word>	   leaflet              n.传单，活页；广告		</word>
+		<word>	   leakage              n.漏，泄漏；漏出物		</word>
+		<word>	   lease                n.租约，契约，租契		</word>
+		<word>	   legislation          n.立法；法规		</word>
+		<word>	   length               n.程度，范围		</word>
+		<word>	   lengthen             vt.使延长 vi.变长		</word>
+		<word>	   leopard              n.豹		</word>
+		<word>	   lessen               vt.减少 vi.变少		</word>
+		<word>	   lever                n.途径，工具，手段		</word>
+		<word>	   liability            n.责任；倾向；债务		</word>
+		<word>	   liable               a.有(法律)责任的		</word>
+		<word>	   lighter              n.打火机，引燃器		</word>
+		<word>	   likelihood           n.可能(性)		</word>
+		<word>	   likeness             n.同样；类似，相似		</word>
+		<word>	   lily                 n.百合，百合花，睡莲		</word>
+		<word>	   limb                 n.分支，突出物		</word>
+		<word>	   limestone            n.石灰石		</word>
+		<word>	   limp                 vi.蹒跚，跛行 n.跛行		</word>
+		<word>	   line                 vt.加衬里于		</word>
+		<word>	   linear               a.线的；长度的		</word>
+		<word>	   liner                n.班船，定期班机		</word>
+		<word>	   linger               vi.逗留，徘徊；拖延		</word>
+		<word>	   lining               n.(衣服里的)衬里		</word>
+		<word>	   lipstick             n.唇膏，口红		</word>
+		<word>	   literal              a.文字(上)的；字面的		</word>
+		<word>	   literally            ad.照字义，逐字地		</word>
+		<word>	   literary             a.精通文学的		</word>
+		<word>	   litter               n.废物，杂乱 vi.乱扔		</word>
+		<word>	   lobby                n.前厅，(剧院的)门廊		</word>
+		<word>	   locality             n.位置，地点，发生地		</word>
+		<word>	   location             n.定位，测位；测量		</word>
+		<word>	   locomotive           a.运动的；机动		</word>
+		<word>	   locust               n.蝗虫；洋槐，刺槐		</word>
+		<word>	   lodging              n.寄宿，住宿；住所		</word>
+		<word>	   lofty                a.高耸的；高尚的		</word>
+		<word>	   log                  n.航海日志；飞行日志		</word>
+		<word>	   longing              n.渴望 a.显示渴望的		</word>
+		<word>	   longitude            n.经线，经度		</word>
+		<word>	   loosely              ad.松松地，松散地		</word>
+		<word>	   loosen               vi.变松		</word>
+		<word>	   lounge               n.(旅馆等的)休息室		</word>
+		<word>	   lubricate            vt.使润滑vi.加润滑油		</word>
+		<word>	   luminous             a.发光的；光明的		</word>
+		<word>	   lump                 vt.(使)成团 vi.结块		</word>
+		<word>	   lunar                a.月亮的		</word>
+		<word>	   luncheon             n.午宴，午餐，便宴		</word>
+		<word>	   luxurious            a.爱好奢侈的，豪华的		</word>
+		<word>	   magician             n.魔法师；变戏法的人		</word>
+		<word>	   magistrate           n.地方行政长官		</word>
+		<word>	   magnet               n.有吸引力的人(或物)		</word>
+		<word>	   magnetism            n.磁；魅力；催眠术		</word>
+		<word>	   magnify              vt.放大，扩大		</word>
+		<word>	   magnitude            n.大小；重大；星等		</word>
+		<word>	   maid                 n.少女；处女		</word>
+		<word>	   maiden               n.少女，未婚女子		</word>
+		<word>	   main                 n.总管道，干线		</word>
+		<word>	   maintenance          n.扶养；坚持		</word>
+		<word>	   majesty              n.威严，尊严；陛下		</word>
+		<word>	   makeup               n.组织；性格；化装品		</word>
+		<word>	   malice               n.恶意；蓄意犯罪		</word>
+		<word>	   mammal               n.哺乳动物		</word>
+		<word>	   manifest             vt.表明 a.明白的		</word>
+		<word>	   manipulate           vt.操作；控制，手持		</word>
+		<word>	   mansion              n.大厦，大楼；宅第		</word>
+		<word>	   manuscript           n.手稿，底稿，原稿		</word>
+		<word>	   maple                n.槭树，枫树		</word>
+		<word>	   margin               n.余地；幅度；赚头		</word>
+		<word>	   marginal             a.记在页边的；边缘的		</word>
+		<word>	   market               vt.(在市场上)销售		</word>
+		<word>	   Mars                 n.火星；战争		</word>
+		<word>	   marsh                n.沼泽地，湿地		</word>
+		<word>	   marshal              n.元帅；陆军元帅		</word>
+		<word>	   martyr               n.烈士，殉难者		</word>
+		<word>	   marvel               n.奇迹；惊奇 vt.惊奇		</word>
+		<word>	   masculine            a.男性的；强壮的		</word>
+		<word>	   massacre             n.大屠杀，残杀		</word>
+		<word>	   massive              a.粗大的；大而重的		</word>
+		<word>	   mast                 n.桅杆；杆 vt.扯帆		</word>
+		<word>	   mature               vt.使成熟 vi.成熟		</word>
+		<word>	   measurement          n.(量得的)尺寸，大小		</word>
+		<word>	   mechanics            n.力学，机械学；结构		</word>
+		<word>	   mechanism            n.机械装置；机制		</word>
+		<word>	   meditate             vt.沉思，冥想，反省		</word>
+		<word>	   melancholy           n.&a.忧郁(的)，悲伤		</word>
+		<word>	   melody               n.旋律，曲调；歌曲		</word>
+		<word>	   membership           n.成员资格；会员人数		</word>
+		<word>	   menace               vt.&vi.&n.(进行)威胁		</word>
+		<word>	   mend                 vt.改正，修正；改进		</word>
+		<word>	   merchandise          n.商品，货物		</word>
+		<word>	   merciful             a.仁慈的，宽大的		</word>
+		<word>	   mercury              n.汞，水银；水银柱		</word>
+		<word>	   merit                vt.值得vi.应受赏(罚)		</word>
+		<word>	   mesh                 n.网眼，筛孔，网络		</word>
+		<word>	   mess                 vt.弄脏，弄乱，搞糟		</word>
+		<word>	   message              n.启示，要旨，教训		</word>
+		<word>	   metallic             a.金属的 n.金属粒子		</word>
+		<word>	   metallurgy           n.冶金学，冶金术		</word>
+		<word>	   metropolitan         a.主要都市的n.大主教		</word>
+		<word>	   microprocessor       n.微信息处理机		</word>
+		<word>	   microscopic          a.显微镜的，微观的		</word>
+		<word>	   microwave            n.微波		</word>
+		<word>	   mighty               a.强大的；巨大的		</word>
+		<word>	   migrate              vi.迁移，移居		</word>
+		<word>	   mild                 a.(烟、酒)味淡的		</word>
+		<word>	   milky                a.牛奶的；乳白色的		</word>
+		<word>	   millionaire          n.百分富翁，巨富		</word>
+		<word>	   mingle               vt.使混合vi.混合起来		</word>
+		<word>	   miniature            n.缩影 a.缩小的		</word>
+		<word>	   minimize             vt.使减到最小		</word>
+		<word>	   mint                 n.薄荷；薄荷糖		</word>
+		<word>	   mint                 n.造币厂；巨额，富源		</word>
+		<word>	   mirror               n.反映，借鉴		</word>
+		<word>	   mishief              n.调皮，捣蛋，胡闹		</word>
+		<word>	   miser                n.守财奴，吝啬鬼		</word>
+		<word>	   misery               n.痛苦，悲惨，不幸		</word>
+		<word>	   misfortune           n.不幸，灾祸，灾难		</word>
+		<word>	   missionary           n.传教士		</word>
+		<word>	   mist                 n.薄雾 vi.下薄雾		</word>
+		<word>	   mistress             n.情妇，情人		</word>
+		<word>	   mitten               n.连指手套；露指手套		</word>
+		<word>	   mixer                n.混合者，搅拌器		</word>
+		<word>	   mob                  vi.聚众闹事		</word>
+		<word>	   mobilize             vt.动员 vi.动员起来		</word>
+		<word>	   mock                 n.嘲弄 vt.嘲弄，挖苦		</word>
+		<word>	   moderately           ad.适度地，适中		</word>
+		<word>	   modesty              n.谦逊；端庄；羞怯		</word>
+		<word>	   modification         n.缓和；修改；修饰		</word>
+		<word>	   modulate             vt.调整，调节(声音)		</word>
+		<word>	   module               n.模数；模；组件		</word>
+		<word>	   molecular            a.分子的；克分子的		</word>
+		<word>	   momentary            a.瞬息间的，片刻的		</word>
+		<word>	   monarch              n.君主，最高统治者		</word>
+		<word>	   monk                 n.和尚，僧侣，修道士		</word>
+		<word>	   monopoly             n.垄断，独占，专利		</word>
+		<word>	   monster              n.怪物；畸形的动植物		</word>
+		<word>	   monstrous            a.可怕的；极大的		</word>
+		<word>	   moor                 vt.使停泊；使固定		</word>
+		<word>	   mop                  n.墩布，洗碗刷		</word>
+		<word>	   morality             n.道德，美德，品行		</word>
+		<word>	   mortgage             n.抵押 vt.抵押		</word>
+		<word>	   Moslem               n.&a.穆斯林(的)		</word>
+		<word>	   mosque               n.清真寺		</word>
+		<word>	   moss                 n.苔藓，地衣		</word>
+		<word>	   motel                n.汽车游客旅馆		</word>
+		<word>	   motive               a.发动的，运动的		</word>
+		<word>	   motorway             n.汽车道，快车路		</word>
+		<word>	   mount                v.装配；固定 n.支架		</word>
+		<word>	   mountainous          a.多山的；山一般的		</word>
+		<word>	   move                 n.行动，步骤		</word>
+		<word>	   multiplication       n.增加；繁殖；乘法		</word>
+		<word>	   multitude            n.大批，大群；大量		</word>
+		<word>	   municipal            a.市的，市立的		</word>
+		<word>	   murmur               n.低沉连续的声音		</word>
+		<word>	   muscular             a.肌肉发达的，强健的		</word>
+		<word>	   muse                 vi.沉思，默想，冥想		</word>
+		<word>	   mustard              n.芥子，芥末		</word>
+		<word>	   mute                 n.弱音器；闭止音		</word>
+		<word>	   mystery              n.神秘小说，侦探小说		</word>
+		<word>	   napkin               n.餐巾(纸)		</word>
+		<word>	   narration            n.叙述；故事；叙述法		</word>
+		<word>	   negative             a.负的，阴性的		</word>
+		<word>	   negligible           a.微不足道的		</word>
+		<word>	   negotiate            vi.谈判，交涉，议定		</word>
+		<word>	   neighbouring         a.邻近的，接壤的		</word>
+		<word>	   nest                 vi.筑巢 vt.为…筑巢		</word>
+		<word>	   net                  vt.用网捕；用网覆盖		</word>
+		<word>	   network              n.网络；广播网		</word>
+		<word>	   neutron              n.中子		</word>
+		<word>	   nice                 a.细微的，微妙的		</word>
+		<word>	   nickel               n.镍；镍币		</word>
+		<word>	   nickname             n.绰号，浑号		</word>
+		<word>	   nightmare            n.恶梦；经常的恐惧		</word>
+		<word>	   nominate             vt.提名，推荐；任命		</word>
+		<word>	   norm                 n.标准，规范；平均数		</word>
+		<word>	   normalization        n.正常化，标准化		</word>
+		<word>	   northward(s)         ad.向北方 a.向北的		</word>
+		<word>	   nose                 n.突出部分(如船头等)		</word>
+		<word>	   notable              n.值得注意的；著名的		</word>
+		<word>	   noted                a.著名的，知名的		</word>
+		<word>	   notify               vt.通知，告知；报告		</word>
+		<word>	   notion               n.概念，意念；看法		</word>
+		<word>	   notorious            a.臭名昭著的		</word>
+		<word>	   notwithstanding      prep.尽管，虽然		</word>
+		<word>	   nought               n.无，零		</word>
+		<word>	   nourish              vt.提供养分，养育		</word>
+		<word>	   nourishment          n.食物；营养(情况)		</word>
+		<word>	   novel                a.新的，异常的		</word>
+		<word>	   novelty              n.新颖；新奇的事物		</word>
+		<word>	   nucleus              n.原子核；细胞核		</word>
+		<word>	   number               vt.共计，达…之数		</word>
+		<word>	   numerical            a.数字的，数值的		</word>
+		<word>	   nun                  n.修女，尼姑		</word>
+		<word>	   nursery              n.苗圃，养鱼池		</word>
+		<word>	   nut                  n.螺帽，螺母		</word>
+		<word>	   oar                  n.桨；划手 vi.划(行)		</word>
+		<word>	   oath                 n.誓言，誓约，宣誓		</word>
+		<word>	   obedience            n.服从，顺从；管辖		</word>
+		<word>	   obedient             n.服从的，顺从的		</word>
+		<word>	   objective            n.宾格 a.目标的		</word>
+		<word>	   obligation           n.义务，职责，责任		</word>
+		<word>	   oblige               vt.使感激；施恩惠于		</word>
+		<word>	   obscure              a.阴暗的；蒙昧的		</word>
+		<word>	   observation          n.意见，短评，按语		</word>
+		<word>	   observe              vi.说，评述，评论		</word>
+		<word>	   obstinate            a.固执的；顽强的		</word>
+		<word>	   occurrence           n.事故		</word>
+		<word>	   offence              n.犯罪，犯规；冒犯		</word>
+		<word>	   offensive            a.冒犯的；进攻的		</word>
+		<word>	   offer                vt.呈现出 vi.出现		</word>
+		<word>	   offset               n.分支，抵销 vt.抵销		</word>
+		<word>	   offspring            n.儿女，子孙，后代		</word>
+		<word>	   ohm                  n.欧姆		</word>
+		<word>	   olive                n.橄榄，橄榄树		</word>
+		<word>	   onward(s)            a.向前(的)，在前面		</word>
+		<word>	   opaque               a.不透明的；不传导的		</word>
+		<word>	   operation            n.运算		</word>
+		<word>	   opium                n.鸦片；麻醉剂		</word>
+		<word>	   optical              a.光的；光学的		</word>
+		<word>	   optimism             n.乐观，乐观主义		</word>
+		<word>	   optimum              n.最适条件，最适度		</word>
+		<word>	   option               n.选择，取舍		</word>
+		<word>	   orchard              n.果园		</word>
+		<word>	   orchestra            n.管弦乐队的全部乐器		</word>
+		<word>	   ordinarily           ad.通常，大概		</word>
+		<word>	   orient               n.东方；亚洲，远东		</word>
+		<word>	   orientation          n.向东；定位；方向		</word>
+		<word>	   originate            vi.发源 vt.首创		</word>
+		<word>	   ornament             n.装饰物 vt.装修		</word>
+		<word>	   ornamental           a.装饰的 n.装饰品		</word>
+		<word>	   otherwise            ad.另外；在其他方面		</word>
+		<word>	   ought                v.aux 早应该，本应		</word>
+		<word>	   outbreak             n.(战争、愤怒等)爆发		</word>
+		<word>	   outcome              n.后果，成果		</word>
+		<word>	   outermost            a.最外面的，最远的		</word>
+		<word>	   outlaw               n.逃犯，歹徒		</word>
+		<word>	   outlet               n.发泄(感情等)的方法		</word>
+		<word>	   outline              vt.概述，概括		</word>
+		<word>	   outside              prep.在…外，向…外		</word>
+		<word>	   oval                 a.卵形的 n.卵形		</word>
+		<word>	   over                 prep.在(做)…时		</word>
+		<word>	   overall              a.综合的 n.工作服		</word>
+		<word>	   overestimate         vt.过高估计		</word>
+		<word>	   overflow             vt.从…中溢出		</word>
+		<word>	   overhang             vt.悬于…之上vi.悬垂		</word>
+		<word>	   overhear             vt.偶然听到；偷听		</word>
+		<word>	   overlap              vt.与…交搭 vi.重迭		</word>
+		<word>	   overload             vt.使超载		</word>
+		<word>	   overlook             vt.眺望；看漏；宽容		</word>
+		<word>	   overseas             ad.在海外，(向)国外		</word>
+		<word>	   overtake             vt.突然袭击，压倒		</word>
+		<word>	   overthrow            vt.推翻 n.推翻，瓦解		</word>
+		<word>	   overwhelm            vt.压倒，使不知所措		</word>
+		<word>	   overwhelming         a.压倒的，势不可挡的		</word>
+		<word>	   oxide                n.氧化物		</word>
+		<word>	   oxidize              vt.氧化，使生锈		</word>
+		<word>	   oyster               n.牡蛎；沉默寡言的人		</word>
+		<word>	   pace                 vi.(马)溜蹄走		</word>
+		<word>	   pacific              a.性情温和的		</word>
+		<word>	   pal                  n.好朋友；同谋		</word>
+		<word>	   pamphlet             n.小册子		</word>
+		<word>	   panel                n.(选定的)专门小组		</word>
+		<word>	   panic                n.恐慌，惊慌		</word>
+		<word>	   pant                 vi.气喘		</word>
+		<word>	   panther              n.豹，黑豹；美洲狮		</word>
+		<word>	   pantry               n.食品柜，餐具室		</word>
+		<word>	   pants                n.裤子；男用短衬裤		</word>
+		<word>	   paper                vt.用纸包装(或覆盖)		</word>
+		<word>	   parachute            n.降落伞；风散种子		</word>
+		<word>	   parade               vt.夸耀(才能等)		</word>
+		<word>	   paragraph            n.小新闻，短评		</word>
+		<word>	   paralyse             vt.使麻痹，使瘫痪		</word>
+		<word>	   parameter            n.参(变)数；参量		</word>
+		<word>	   participant          n.参加者 a.有份的		</word>
+		<word>	   participate          vi.参与 vt.分享		</word>
+		<word>	   particular           a.苛求的；特称的		</word>
+		<word>	   partition            n.分开，分割；融墙		</word>
+		<word>	   passport             n.达到目的的手段		</word>
+		<word>	   pasture              n.牧场；牲畜饲养		</word>
+		<word>	   patent               a.专利的 n.专利		</word>
+		<word>	   pathetic             a.哀婉动人的；可怜的		</word>
+		<word>	   patriot              n.爱国者，爱国主义者		</word>
+		<word>	   patriotic            a.爱国的		</word>
+		<word>	   patrol               n.巡逻 n.巡逻，巡查		</word>
+		<word>	   patron               n.庇护人；赞助人		</word>
+		<word>	   pattern              vt.仿制，仿造，模仿		</word>
+		<word>	   peacock              n.孔雀		</word>
+		<word>	   peak                 n.(物体的)尖端		</word>
+		<word>	   peck                 vt.&vi.啄，啄起		</word>
+		<word>	   peculiarity          n.特性，独特性；怪癖		</word>
+		<word>	   pedal                n.踏脚，踏板，脚蹬		</word>
+		<word>	   pedestrian           n.行人，步行者		</word>
+		<word>	   pedlar               n.(挨户兜售的)小贩		</word>
+		<word>	   peel                 n.果皮，蔬菜皮		</word>
+		<word>	   peer                 vi.凝视；隐约出现		</word>
+		<word>	   penalty              n.处罚，刑罚；罚款		</word>
+		<word>	   penetration          n.穿入；渗透，侵入		</word>
+		<word>	   pendulum             n.(钟等的)摆		</word>
+		<word>	   perception           n.感觉；概念；理解力		</word>
+		<word>	   perch                n.(禽鸟的)栖木		</word>
+		<word>	   perfect              vt.使熟练，使改善		</word>
+		<word>	   perfection           n.尽善尽美；无比精确		</word>
+		<word>	   peril                n.危机；危险的事物		</word>
+		<word>	   perimeter            n.周(边)，周长		</word>
+		<word>	   periodic             n.周期的；一定时期的		</word>
+		<word>	   periodical           n.期刊，杂志		</word>
+		<word>	   peripheral           a.周界的；末梢的		</word>
+		<word>	   perish               vi.死亡，夭折；枯萎		</word>
+		<word>	   perpendicular        a.垂直的 n.垂直(线)		</word>
+		<word>	   perpetual            a.永久的；四季开花的		</word>
+		<word>	   perplex              vt.迷惑，困惑，难住		</word>
+		<word>	   persecute            vt.迫害，残害		</word>
+		<word>	   persevere            vi.坚持，不屈不挠		</word>
+		<word>	   persist              vi.持续，存留		</word>
+		<word>	   persistence          n.坚持；持续，存留		</word>
+		<word>	   personality          n.人格，个性；人物		</word>
+		<word>	   personnel            n.人事部门		</word>
+		<word>	   persuasion           n.劝说，说服；主张		</word>
+		<word>	   pertinent            a.恰当的；有关的		</word>
+		<word>	   pest                 n.害虫；害人虫		</word>
+		<word>	   petition             n.请愿 vt.向…请愿		</word>
+		<word>	   petty                a.细小的；器量小的		</word>
+		<word>	   photoelectric        a.光电的		</word>
+		<word>	   photography          n.摄影术		</word>
+		<word>	   physically           ad.物质上；体格上		</word>
+		<word>	   pickle               n.腌制食品，泡菜		</word>
+		<word>	   pier                 n.(桥)墩；码头		</word>
+		<word>	   pierce               vt.穿透，戳穿，洞察		</word>
+		<word>	   pilgrim              n.香客，朝圣者		</word>
+		<word>	   pineapple            n.凤梨，波萝		</word>
+		<word>	   pious                a.虔诚的；虔奉宗教的		</word>
+		<word>	   pipe                 n.管乐器		</word>
+		<word>	   pirate               n.海盗；每盗船		</word>
+		<word>	   piston               n.活塞		</word>
+		<word>	   pitch                n.人造树脂		</word>
+		<word>	   plague               n.瘟疫，鼠疫；天灾		</word>
+		<word>	   plain                a.坦白的；普通的		</word>
+		<word>	   plastic              a.塑料的；塑性的		</word>
+		<word>	   plateau              n.高原；平稳时期		</word>
+		<word>	   platform             n.政纲，党纲，宣言		</word>
+		<word>	   plea                 n.请愿，请求，恳求		</word>
+		<word>	   plead                vt.为…辩护 vi.抗辩		</word>
+		<word>	   pledge               n.誓言 vt.使发誓		</word>
+		<word>	   pluck                vt.鼓起(勇气)，振作		</word>
+		<word>	   plump                vt.丰满的；鼓起的		</word>
+		<word>	   plunder              v.&n.掠夺，劫掠		</word>
+		<word>	   pneumatic            a.空气的；气动的		</word>
+		<word>	   poke                 vt.戳，刺；伸(头等)		</word>
+		<word>	   polar                a.南(北)极的；极性的		</word>
+		<word>	   polarity             n.极性；(思想等)归向		</word>
+		<word>	   politics             n.政纲，政见，策略		</word>
+		<word>	   poll                 n.投票 vi.投票		</word>
+		<word>	   polymer              n.聚合物，多聚物		</word>
+		<word>	   ponder               vt.考虑 vi.沉思		</word>
+		<word>	   pop                  vi.(意外地)出现		</word>
+		<word>	   pope                 n.(罗马天主教的)教皇		</word>
+		<word>	   popularity           n.通俗性；普及，流行		</word>
+		<word>	   porcelain            n.瓷 a.瓷的，瓷制的		</word>
+		<word>	   pore                 n.毛孔，气孔，细孔		</word>
+		<word>	   portable             a.可移动的		</word>
+		<word>	   pose                 vt.(使)摆好姿势		</word>
+		<word>	   position             n.主张，立场；形势		</word>
+		<word>	   positive             a.正的；阳性的		</word>
+		<word>	   positively           ad.确定的，断然		</word>
+		<word>	   possibility          n.可能的事		</word>
+		<word>	   postal               a.邮政的，邮局的		</word>
+		<word>	   postulate            vt.要求，假定，假设		</word>
+		<word>	   poultry              n.家禽		</word>
+		<word>	   practicable          a.能实行的；适用的		</word>
+		<word>	   prairie              n.大草原，牧场		</word>
+		<word>	   preach               vt.说教，布道；鼓吹		</word>
+		<word>	   precede              vt.先于… vi.领先		</word>
+		<word>	   predecessor          n.前辈，前任者		</word>
+		<word>	   prediction           n.预言，预告；预报		</word>
+		<word>	   predominant          a.占优势的；主要的		</word>
+		<word>	   pregnant             a.怀孕的；意义深长的		</word>
+		<word>	   prejudice            n.偏见，成见；损害		</word>
+		<word>	   prescription         n.药方，处方的药		</word>
+		<word>	   presentation         n.介绍；赠送；呈现		</word>
+		<word>	   preservation         n.保存，储藏；保持		</word>
+		<word>	   preset               vt.预先装置		</word>
+		<word>	   preside              vi.主持；主奏		</word>
+		<word>	   press                n.印刷机，印刷所		</word>
+		<word>	   pressure             n.电压；大气压力		</word>
+		<word>	   prestige             n.威望，威信，声望		</word>
+		<word>	   presumably           ad.推测起来，大概		</word>
+		<word>	   presume              vt.假定，假设，揣测		</word>
+		<word>	   prevalent            a.流行的；盛行的		</word>
+		<word>	   prevention           n.预防，阻止，妨碍		</word>
+		<word>	   prey                 vi.猎物 vi.捕获		</word>
+		<word>	   prick                vt.刺(穿) n.刺孔		</word>
+		<word>	   primitive            a.远古的，未开化的		</word>
+		<word>	   principally          ad.主要，大抵		</word>
+		<word>	   printer              n.印刷工；印花工		</word>
+		<word>	   priority             n.先，前；优先，重点		</word>
+		<word>	   prism                n.棱柱(体)；棱镜		</word>
+		<word>	   probe                n.探针 vt.用探针探查		</word>
+		<word>	   proceeding           n.程序，行动，事项		</word>
+		<word>	   producer             n.生产者；舞台监督		</word>
+		<word>	   productive           a.生产的；出产…的		</word>
+		<word>	   productivity         n.生产率；多产		</word>
+		<word>	   proficiency          n.熟练，精通		</word>
+		<word>	   proficient           a.熟练的，精通的		</word>
+		<word>	   profitable           a.有利的；有益的		</word>
+		<word>	   profound             a.深刻的；渊博的		</word>
+		<word>	   program              vi.编制程序		</word>
+		<word>	   prohibition          n.禁止；禁令，禁律		</word>
+		<word>	   projector            n.投影仪；探照灯		</word>
+		<word>	   prolong              vt.延长，拉长，拖延		</word>
+		<word>	   promotion            n.促进；提升；创立		</word>
+		<word>	   promptly             ad.敏捷地，迅速地		</word>
+		<word>	   propaganda           n.宣传；宣传机构		</word>
+		<word>	   propagate            vt.繁殖；传播，普及		</word>
+		<word>	   propagation          n.繁殖；传播；蔓延		</word>
+		<word>	   propel               vt.推进，推动		</word>
+		<word>	   propeller            n.螺旋桨，推进器		</word>
+		<word>	   proper               a.合乎体统的，正派的		</word>
+		<word>	   prophecy             n.预言，预言能力		</word>
+		<word>	   prophet              n.预言家，先知		</word>
+		<word>	   proposition          n.命题，主题；提议		</word>
+		<word>	   propulsion           n.推进，推进力		</word>
+		<word>	   prose                n.散文		</word>
+		<word>	   proton               n.质子，氕核		</word>
+		<word>	   prototype            n.原型；典型，范例		</word>
+		<word>	   proverb              n.谚语，格言，箴言		</word>
+		<word>	   province             n.领域，范围，职权		</word>
+		<word>	   provision            n.规定，条款，条项		</word>
+		<word>	   provoke              vt.对…挑衅；激发		</word>
+		<word>	   prudent              a.谨慎的；精明的		</word>
+		<word>	   psychology           n.心理学；心理		</word>
+		<word>	   puff                 vi.喘气 vt.喷(烟等)		</word>
+		<word>	   pulley               n.滑轮，滑车，皮带轮		</word>
+		<word>	   pumpkin              n.南瓜，南瓜藤		</word>
+		<word>	   punch                vt.冲压 n.冲压机		</word>
+		<word>	   puppy                n.小狗；幼小的动物		</word>
+		<word>	   purify               vt.提纯，精炼(金属)		</word>
+		<word>	   pyjamas              n.(宽大的)睡衣裤		</word>
+		<word>	   qualification        n.资格；限制条件		</word>
+		<word>	   qualify              vt.限制，限定，修饰		</word>
+		<word>	   qualitative          a.质的；定性的		</word>
+		<word>	   quantify             vt.确定…的数量		</word>
+		<word>	   quantitative         a.量的；定量的		</word>
+		<word>	   quarterly            a.季度的 ad.季度地		</word>
+		<word>	   quartz               n.石英		</word>
+		<word>	   quench               vt.熄灭，扑灭；压制		</word>
+		<word>	   quest                vt.寻找 vi.追求		</word>
+		<word>	   question             vt.问，询问，讯问		</word>
+		<word>	   questionable         a.可疑的，不可靠的		</word>
+		<word>	   questionnaire        n.调查表，征求意见表		</word>
+		<word>	   quiver               vi.(轻微地)颤动		</word>
+		<word>	   radial               a.光线的；放射的		</word>
+		<word>	   radiant              a.绚丽的；容光焕发的		</word>
+		<word>	   radiator             n.暖气片，散热器		</word>
+		<word>	   radical              a.基本的；激进的		</word>
+		<word>	   radius               n.半径距离；界限		</word>
+		<word>	   raise                vt.提出，发起，发出		</word>
+		<word>	   raisin               n.葡萄干		</word>
+		<word>	   rally                n.&vt.&vi.(重新)集合		</word>
+		<word>	   ramble               vi.闲逛，漫步；聊天		</word>
+		<word>	   ranch                n.(北美洲的)大牧场		</word>
+		<word>	   random               n.随机 a.随机的		</word>
+		<word>	   range                vt.排列；把…分类		</word>
+		<word>	   rap                  n.轻敲击声 vt.敲击		</word>
+		<word>	   rapidity             n.快，迅速；陡，险峻		</word>
+		<word>	   rapture              n.狂喜，欢天喜地		</word>
+		<word>	   rascal               n.流氓，恶棍，无赖		</word>
+		<word>	   rash                 a.轻率的；鲁莽的		</word>
+		<word>	   rate                 n.价格 vt.对…评定		</word>
+		<word>	   rational             a.推理的；适度的		</word>
+		<word>	   rattle               vt.发出格格声		</word>
+		<word>	   reactor              n.反应器；反应堆		</word>
+		<word>	   realistic            a.现实的；现实主义的		</word>
+		<word>	   realization          n.(理想等的)实现		</word>
+		<word>	   rear                 vt.饲养，培植；抚养		</word>
+		<word>	   reason               vt.辩论，讨论		</word>
+		<word>	   rebuke               vt.指责，非难，斥责		</word>
+		<word>	   receiver             n.接待者；收受者		</word>
+		<word>	   recipe               n.菜谱，烹饪法；处方		</word>
+		<word>	   reciprocal           a.相互的；互利的		</word>
+		<word>	   reckless             a.粗心大意的；鲁莽的		</word>
+		<word>	   reckon               vi.数，算帐 vt.认为		</word>
+		<word>	   reclaim              vt.开垦，开拓；回收		</word>
+		<word>	   recognition          n.认出，识别；重视		</word>
+		<word>	   recommendation       n.推荐，介绍；建议		</word>
+		<word>	   reconcile            vt.使和好；调停		</word>
+		<word>	   recreation           n.消遣，娱乐活动		</word>
+		<word>	   rectangle            n.矩形，长方形		</word>
+		<word>	   rectify              vt.纠正；调整；精馏		</word>
+		<word>	   reed                 n.芦笛，牧笛		</word>
+		<word>	   reef                 n.礁，礁石，暗礁		</word>
+		<word>	   reel                 vt.卷，绕		</word>
+		<word>	   referee              n.(足球等)裁判员		</word>
+		<word>	   reference            n.参考文献；参照系		</word>
+		<word>	   refinery             n.精炼厂，提炼厂		</word>
+		<word>	   refrain              vi.抑制，制止，忍住		</word>
+		<word>	   refreshment          n.(精力的)恢复，爽快		</word>
+		<word>	   refugee              n.难民，流亡者		</word>
+		<word>	   regenerative         a.新生的；回授的		</word>
+		<word>	   regime               n.政体，政权；制度		</word>
+		<word>	   regiment             n.团，军团；一大群		</word>
+		<word>	   regularity           n.规则性；整齐		</word>
+		<word>	   regulate             vt.调整，调节，对准		</word>
+		<word>	   regulation           n.规章，规则；调节		</word>
+		<word>	   reign                n.朝代		</word>
+		<word>	   reject               vt.舍弃，抛弃；排斥		</word>
+		<word>	   relay                vt.分程传递；使接替		</word>
+		<word>	   religion             n.信念，信条		</word>
+		<word>	   remainder            n.剩余(物)；余数		</word>
+		<word>	   repay                vt.&vi.偿还，报答		</word>
+		<word>	   repeal               vt.撤销；放弃 n.撤销		</word>
+		<word>	   repel                vt.拒绝；使厌恶		</word>
+		<word>	   replace              vt.送还，归还，赔还		</word>
+		<word>	   replacement          n.归还；取代；置换		</word>
+		<word>	   report               n.传说，议论		</word>
+		<word>	   representation       n.描写；陈述；代表		</word>
+		<word>	   representative       a.代表性的；代议制的		</word>
+		<word>	   reproduce            vt.仿造		</word>
+		<word>	   reproduction         n.再生(产)；繁殖		</word>
+		<word>	   reptile              n.爬行动物；两栖动物		</word>
+		<word>	   requisite            a.需要的 n.必需品		</word>
+		<word>	   resemblance          n.相似，相似性		</word>
+		<word>	   resent               vt.对…不满，怨恨		</word>
+		<word>	   reservation          n.保留；预定，预订		</word>
+		<word>	   reserve              n.缄默，自我克制		</word>
+		<word>	   reside               vi.居住，驻扎；属于		</word>
+		<word>	   resident             n.常住者		</word>
+		<word>	   residual             a.剩余的；残数的		</word>
+		<word>	   resign               vt.使顺从，使听任于		</word>
+		<word>	   resignation          n.听从，屈从，顺从		</word>
+		<word>	   resolute             a.坚决的，果敢的		</word>
+		<word>	   respectable          a.可敬的；人格高尚的		</word>
+		<word>	   response             n.回音，回签；灵敏度		</word>
+		<word>	   responsible          a.重要的；可靠的		</word>
+		<word>	   restrain             vt.抑制，制止，遏制		</word>
+		<word>	   resultant            a.作为结果而发生的		</word>
+		<word>	   resume               n.(谋职者的)个人简历		</word>
+		<word>	   retail               n.零售 a.零售的		</word>
+		<word>	   retard               vt.延迟，放慢		</word>
+		<word>	   retirement           n.退休，引退；退隐		</word>
+		<word>	   retort               vt.&vi.反击；反驳		</word>
+		<word>	   reveal               vt.告诉，揭示，泄露		</word>
+		<word>	   revenue              n.收入；收入数目		</word>
+		<word>	   reverse              n.背面，反面		</word>
+		<word>	   revive               vt.&vi.苏醒；复兴		</word>
+		<word>	   revolve              vt.&vi.(使)旋转		</word>
+		<word>	   ridicule             vi.&n.嘲弄，挖苦		</word>
+		<word>	   rigorous             a.(性格等)严峻的		</word>
+		<word>	   rim                  n.边；边缘，(眼镜)框		</word>
+		<word>	   rinse                vt.涮，嗽；冲洗		</word>
+		<word>	   riot                 n.&vi.骚乱，暴乱		</word>
+		<word>	   rip                  vi.撕啐，扯破，划破		</word>
+		<word>	   ripple               n.涟漪，细浪，波纹		</word>
+		<word>	   roam                 vt.在…漫步，漫游		</word>
+		<word>	   roller               n.滚柱，滚筒，辊		</word>
+		<word>	   Roman                n.罗马人，古罗马人		</word>
+		<word>	   romance              n.传奇；浪漫文学		</word>
+		<word>	   romantic             a.好幻想的		</word>
+		<word>	   rooster              n.公鸡；狂妄自负的人		</word>
+		<word>	   rotate               vt.&vi.(使)旋转		</word>
+		<word>	   roundabout           a.迂回的；转弯抹角的		</word>
+		<word>	   routine              a.日常的 n.常规		</word>
+		<word>	   row                  n.吵嚷，吵架，口角		</word>
+		<word>	   royalty              n.皇家，王族，皇族		</word>
+		<word>	   ruby                 n.红宝石		</word>
+		<word>	   rule                 n.裁决，裁定		</word>
+		<word>	   ruthless             a.无情的，冷酷的		</word>
+		<word>	   safeguard            n.保护措施；护照		</word>
+		<word>	   salmon               n.鲑，大马哈鱼		</word>
+		<word>	   salute               vt.迎接，欢迎		</word>
+		<word>	   sandwich             vt.夹入，挤进		</word>
+		<word>	   sardine              n.沙丁鱼		</word>
+		<word>	   satellite            n.附属物		</word>
+		<word>	   satisfaction         n.快事，乐事；愉快		</word>
+		<word>	   satisfactorily       ad.圆满地		</word>
+		<word>	   saturation           n.饱和(状态)；浸透		</word>
+		<word>	   Saturn               n.农神；土星		</word>
+		<word>	   scan                 n.扫描，扫掠		</word>
+		<word>	   scandal              n.丑事，丑闻；耻辱		</word>
+		<word>	   scar                 n.瘢痕		</word>
+		<word>	   scarcity             n.缺乏，不足，萧条		</word>
+		<word>	   scarlet              n.猩红色 a.猩红的		</word>
+		<word>	   scheme               vt.计划 vi.搞阴谋		</word>
+		<word>	   scholarship          n.学问，学识；奖学金		</word>
+		<word>	   scoff                vt.&vi.嘲笑，嘲弄		</word>
+		<word>	   scope                n.眼界		</word>
+		<word>	   scorch               vi.烧焦，枯萎；挖苦		</word>
+		<word>	   scout                vt.搜索，侦察，跟踪		</word>
+		<word>	   scramble             vi.&n.爬行，攀登		</word>
+		<word>	   scrap                n.碎片；废料 vt.废弃		</word>
+		<word>	   scratch              n.起跑线，起步线		</word>
+		<word>	   scripture            n.《圣经》；圣书		</word>
+		<word>	   scrub                n.&vt.擦洗，擦净		</word>
+		<word>	   sculpture            n.雕刻(术)；雕刻品		</word>
+		<word>	   seam                 n.缝口；接缝；骨缝		</word>
+		<word>	   seaport              n.海港，港口，港市		</word>
+		<word>	   seaside              n.海滨(胜地)；海边		</word>
+		<word>	   second               vt.支持		</word>
+		<word>	   second-hand          n.旧的，第二手的		</word>
+		<word>	   section              n.切下的部分		</word>
+		<word>	   seemingly            ad.表面上，外表上		</word>
+		<word>	   segment              n.切片，部分；段，节		</word>
+		<word>	   selection            n.精选的东西；选择		</word>
+		<word>	   senator              n.参议员；评议员		</word>
+		<word>	   sensation            n.感觉，知觉；轰动		</word>
+		<word>	   senseless            a.愚蠢的，无意义的		</word>
+		<word>	   sensible             a.明显的，感觉得到的		</word>
+		<word>	   sensitivity          n.敏感(性)；灵敏性		</word>
+		<word>	   sensor               n.传感器，灵敏元件		</word>
+		<word>	   sentiment            n.感情；情操；情绪		</word>
+		<word>	   sequence             n.序列		</word>
+		<word>	   sermon               n.布道，讲道，说教		</word>
+		<word>	   serpent              n.蛇(尤指大蛇或毒蛇)		</word>
+		<word>	   set                  n.集(合)		</word>
+		<word>	   settlement           n.调停；(新)住宅区		</word>
+		<word>	   severe               a.激烈的；简朴的		</word>
+		<word>	   shabby               a.褴褛的；破旧的		</word>
+		<word>	   shade                n.(色彩的)浓淡，深浅		</word>
+		<word>	   shadowy              a.有影的；幽暗的		</word>
+		<word>	   shady                a.可疑的，靠不住的		</word>
+		<word>	   shaft                n.(工具的)柄，杆状物		</word>
+		<word>	   sham                 n.假冒；膺品 vt.假装		</word>
+		<word>	   shame                vt.使羞愧，玷辱		</word>
+		<word>	   shameful             a.可耻的；不道德的		</word>
+		<word>	   shark                n.鲨鱼；贪婪狡猾的人		</word>
+		<word>	   sharply              ad.严厉地，苛刻地		</word>
+		<word>	   shatter              vt.粉碎，破碎；毁坏		</word>
+		<word>	   sheer                a.纯粹的；全然的		</word>
+		<word>	   shell                n.炮弹，猎枪子弹		</word>
+		<word>	   sheriff              n.郡长；警察局长		</word>
+		<word>	   shipbuilding         n.造船(业)，造船学		</word>
+		<word>	   shipment             n.装货；装载的货物		</word>
+		<word>	   shipwreck            n.船舶失事		</word>
+		<word>	   shortage             n.短缺，不足额		</word>
+		<word>	   shortcut             n.近路，捷径		</word>
+		<word>	   shorten              vt.弄短，缩小，减少		</word>
+		<word>	   shorthand            n.速记，速记法		</word>
+		<word>	   should               v.aux.应该，竟然会		</word>
+		<word>	   shoulder             vt.承担，挑起，肩负		</word>
+		<word>	   shove                vt.推 vi.(使劲)推		</word>
+		<word>	   shovel               n.铲，铁铲 vt.铲		</word>
+		<word>	   shower               vi.下阵雨 vt.使湿透		</word>
+		<word>	   shrill               a.尖声的 vt.尖声地叫		</word>
+		<word>	   shrimp               n.(小)虾，河虾，褐虾		</word>
+		<word>	   shrine               n.神殿，神龛，圣祠		</word>
+		<word>	   shrub                n.灌木，灌木丛		</word>
+		<word>	   shrug                vt.&vi.耸(肩) n.耸肩		</word>
+		<word>	   shutter              n.百叶窗；(相机)快门		</word>
+		<word>	   shuttle              n.(织机的)梭		</word>
+		<word>	   sideways             ad.斜向一边地		</word>
+		<word>	   siege                n.包围，围攻，围困		</word>
+		<word>	   sift                 vt.筛，过滤 vi.通过		</word>
+		<word>	   sight                n.情景，名胜，风景		</word>
+		<word>	   sign                 n.征兆，迹象，病症		</word>
+		<word>	   significant          a.有效的		</word>
+		<word>	   signify              vt.表示，意味着		</word>
+		<word>	   silicon              n.硅(旧名矽)		</word>
+		<word>	   similarity           n.类似，相似；类似点		</word>
+		<word>	   simple               a.单纯的；迟钝的		</word>
+		<word>	   simplicity           n.单纯，质朴		</word>
+		<word>	   simultaneous         a.同时的，同时存在的		</word>
+		<word>	   sincerity            n.真诚，诚意；真实		</word>
+		<word>	   singular             a.异常的，奇异的		</word>
+		<word>	   sink                 n.(厨房内的)洗涤槽		</word>
+		<word>	   siren                n.汽笛，警报器		</word>
+		<word>	   sitting-room         n.起居室		</word>
+		<word>	   situated             a.位于…的		</word>
+		<word>	   situation            n.(建筑物等的)位置		</word>
+		<word>	   skeleton             n.骨骼，骷髅；骨架		</word>
+		<word>	   skip                 vi.跳；跳绳；略过		</word>
+		<word>	   skyscraper           n.摩天楼		</word>
+		<word>	   slack                a.萧条的；懈怠的		</word>
+		<word>	   slander              n.&vt.诽谤，诋毁		</word>
+		<word>	   slang                n.俚语；行话，黑话		</word>
+		<word>	   slap                 vt.掴，拍 n.巴掌，拍		</word>
+		<word>	   slaughter            vt.&n.屠杀，屠宰		</word>
+		<word>	   slave                vi.作苦工 vt.奴役		</word>
+		<word>	   slide                n.滑板，滑座		</word>
+		<word>	   slim                 a.细长的；微小的		</word>
+		<word>	   slit                 vt.切开 n.狭长的切口		</word>
+		<word>	   slumber              n.睡眠；沉睡状态		</word>
+		<word>	   smart                vi.刺疼，扎疼，剧痛		</word>
+		<word>	   smash                vt.打碎，打破，粉碎		</word>
+		<word>	   smuggle              vt.私运 vi.走私		</word>
+		<word>	   snack                n.快餐，小吃		</word>
+		<word>	   snail                n.蜗牛；行动缓慢的人		</word>
+		<word>	   snap                 vt.猛咬，突然折断		</word>
+		<word>	   sneer                vi.&n.冷笑；嘲笑		</word>
+		<word>	   sneeze               vi.打喷嚏		</word>
+		<word>	   sniff                vi.用鼻子吸 vt.嗅		</word>
+		<word>	   snob                 n.势利小人		</word>
+		<word>	   snobbish             a.势利的，谄上欺下的		</word>
+		<word>	   snore                vi.打鼾，打呼噜		</word>
+		<word>	   sociology            n.社会学		</word>
+		<word>	   sodium               n.钠		</word>
+		<word>	   sofa                 n.长沙发，沙发		</word>
+		<word>	   soften               vt.使软化 vi.变软弱		</word>
+		<word>	   softness             n.温和，柔和；软弱		</word>
+		<word>	   software             n.(计算机的)软件		</word>
+		<word>	   solar                a.利用太阳光的		</word>
+		<word>	   solidarity           n.团结；休戚相关		</word>
+		<word>	   solidify             vt.&vi.团结；凝固		</word>
+		<word>	   solo                 n.独唱，独奏；独唱曲		</word>
+		<word>	   sophisticated        a.老于世故的；高级的		</word>
+		<word>	   sorrowful            a.使人伤心的；悲伤的		</word>
+		<word>	   southwards           ad.向南方		</word>
+		<word>	   sovereign            n.君主 a.统治的		</word>
+		<word>	   souvenir             n.纪念品，黄豆		</word>
+		<word>	   soy                  n.酱油；大豆，黄豆		</word>
+		<word>	   spacious             a.广阔的，广大的		</word>
+		<word>	   span                 n.(桥墩间的)墩距		</word>
+		<word>	   spatial              a.空间的，占据空间的		</word>
+		<word>	   specialize           vt.使专门化，专业化		</word>
+		<word>	   species              n.种，物种；种类		</word>
+		<word>	   specification        n.载明，详述；规格		</word>
+		<word>	   specimen             n.抽样，样品		</word>
+		<word>	   spectacle            n.场面；景象，奇观		</word>
+		<word>	   spectator            n.参观者，观众		</word>
+		<word>	   spectrum             n.系列，范围；波谱		</word>
+		<word>	   speculate            vi.思索，沉思；投机		</word>
+		<word>	   spherical            a.球形的，球面的		</word>
+		<word>	   spice                n.香料，调味品；香气		</word>
+		<word>	   spill                n.(人)摔下，跌下		</word>
+		<word>	   spiral               a.螺旋(形)的，盘旋的		</word>
+		<word>	   spite                n.恶意，怨恨		</word>
+		<word>	   splash               vt.溅泼 vi.泼水 n.溅		</word>
+		<word>	   split                n.分裂，分化；派系		</word>
+		<word>	   spokesman            n.发言人，代言人		</word>
+		<word>	   squash               vt.压碎 n.鲜果汁		</word>
+		<word>	   squat                vi.&vt.(使)蹲下		</word>
+		<word>	   squeeze              n.压榨；榨取，佣金		</word>
+		<word>	   stability            n.坚定		</word>
+		<word>	   stagger              vi.蹒跚 vt.使摇晃		</word>
+		<word>	   stainless            a.纯洁的；不锈的		</word>
+		<word>	   stairway             n.楼梯		</word>
+		<word>	   stalk                n.主茎，叶柄；高烟囱		</word>
+		<word>	   stall                n.货摊，书摊；厩		</word>
+		<word>	   stammer              vt.口吃地说 n.口吃		</word>
+		<word>	   standardize          vt.使与标准比较		</word>
+		<word>	   start                vt.开动，着手；开设		</word>
+		<word>	   stationery           n.文具；信笺		</word>
+		<word>	   statistics           n.统计，统计数字		</word>
+		<word>	   steady               a.坚定的，扎实的		</word>
+		<word>	   steak                n.大块牛肉；牛排		</word>
+		<word>	   steal                vt.偷偷地做，巧取		</word>
+		<word>	   stem                 n.词干；(手表的)转柄		</word>
+		<word>	   stereo               n.立体声 a.立体声的		</word>
+		<word>	   stern                n.艉，船尾；臀部		</word>
+		<word>	   stew                 vt.炖 vi.炖着 n.炖肉		</word>
+		<word>	   stiff                a.生硬的		</word>
+		<word>	   stiffness            n.硬度		</word>
+		<word>	   stillness            n.寂静，无声		</word>
+		<word>	   sting                n.剧痛；刺激 vt.刺		</word>
+		<word>	   stitch               n.一针，缝线 vt.缝		</word>
+		<word>	   stone                n.果核，(水果的)硬核		</word>
+		<word>	   storage              n.贮藏，保管；仓库		</word>
+		<word>	   storm                n.爆发 vt.&vi.猛攻		</word>
+		<word>	   stout                a.矮胖的；坚固的		</word>
+		<word>	   straighten           vt.把…弄直vi.挺起来		</word>
+		<word>	   straightforward      a.老实的 ad.坦率地		</word>
+		<word>	   strait               n.海峡		</word>
+		<word>	   strange              a.外地的，异乡的		</word>
+		<word>	   stray                vi.迷路 a.迷路的		</word>
+		<word>	   streamline           n.流线；流线型		</word>
+		<word>	   strength             n.兵力；强度		</word>
+		<word>	   stride               vi.大踏步走 n.大步		</word>
+		<word>	   strife               n.冲突，竞争		</word>
+		<word>	   striking             a.显著的，惊人的		</word>
+		<word>	   strip                n.窄条，长带		</word>
+		<word>	   strive               vi.努力，奋斗，力求		</word>
+		<word>	   stroll               n.散步，溜达，闲逛		</word>
+		<word>	   stubborn             a.顽固的；顽强的		</word>
+		<word>	   studio               n.工作室；播音室		</word>
+		<word>	   stuffy               a.不透气的，闷热的		</word>
+		<word>	   sturdy               a.坚定的；牢固的		</word>
+		<word>	   subdivide            vt.把…再分		</word>
+		<word>	   subdue               vt.使屈服，征服		</word>
+		<word>	   subject              vt.使隶属		</word>
+		<word>	   subordinate          a.下级的，辅助的		</word>
+		<word>	   subscribe            vi.订购，认购；预订		</word>
+		<word>	   subscript            a.写在下方的 n.下标		</word>
+		<word>	   subscription         n.预约，用户，订阅费		</word>
+		<word>	   subsequent           a.尔后的		</word>
+		<word>	   subsequently         ad.其后，其次，接着		</word>
+		<word>	   subsidiary           a.辅助的，补充的		</word>
+		<word>	   substance            n.财产；内容，本旨		</word>
+		<word>	   substantial          a.物质的；坚固的		</word>
+		<word>	   subtle               a.微妙的；精巧的		</word>
+		<word>	   succession           n.继承(权)，后裔		</word>
+		<word>	   successor            n.继承人，继任者		</word>
+		<word>	   suffice              vi.足够；有能力		</word>
+		<word>	   suicide              n.&vi.&vt.自杀		</word>
+		<word>	   suit                 vt.使配合vi.彼此协调		</word>
+		<word>	   suitcase             n.小提箱，衣箱		</word>
+		<word>	   sullen               a.绷着脸不高兴的		</word>
+		<word>	   summary              a.概括的；速决的		</word>
+		<word>	   summit               n.顶点，最高点；极度		</word>
+		<word>	   summon               vt.召唤；鼓起(勇气)		</word>
+		<word>	   superb               a.壮丽的；超等的		</word>
+		<word>	   superficial          a.表面的；肤浅的		</word>
+		<word>	   superiority          n.优越(性)，优势		</word>
+		<word>	   supersonic           a.超声的，超声速的		</word>
+		<word>	   superstition         n.迷信，迷信行为		</word>
+		<word>	   supervise            vt.&vi.监督，监视		</word>
+		<word>	   supplement           n.补角		</word>
+		<word>	   support              vt.经受，承受，忍受		</word>
+		<word>	   suppress             vt.镇压；抑制；隐瞒		</word>
+		<word>	   surpass              vt.超过，超越，胜过		</word>
+		<word>	   surplus              n.过剩，剩余(物资)		</word>
+		<word>	   survival             n.幸存，残存；幸存者		</word>
+		<word>	   suspicious           a.可疑的；猜疑的		</word>
+		<word>	   sweeten              vt.使变甜 vi.变甜		</word>
+		<word>	   sweetness            n.甜蜜；新鲜；温和		</word>
+		<word>	   swell                vi.&vt.使膨胀，隆起		</word>
+		<word>	   switch               n.(树木的)软枝条		</word>
+		<word>	   symmetrical          a.对称的，匀称的		</word>
+		<word>	   symmetry             n.对称(性)，匀称		</word>
+		<word>	   symphony             n.交响乐；交响乐团		</word>
+		<word>	   symposium            n.酒会；座谈会		</word>
+		<word>	   symptom              n.症状，征候，征兆		</word>
+		<word>	   synthesis            n.合成；综合，综合物		</word>
+		<word>	   systematic           a.成体系的；分类的		</word>
+		<word>	   systematically       ad.系统地，有规则地		</word>
+		<word>	   tabulate             vt.把…制成表		</word>
+		<word>	   tack                 n.平头打 vt.钉住		</word>
+		<word>	   tackle               vt.解决，对付 n.用具		</word>
+		<word>	   tact                 n.机敏，圆滑，得体		</word>
+		<word>	   tactics              n.策略；战术，兵法		</word>
+		<word>	   tangle               vt.使缠结，使纠缠		</word>
+		<word>	   tanker               n.油船；空中加油飞机		</word>
+		<word>	   tape                 vt.系，捆		</word>
+		<word>	   taper                n.细小的蜡烛；微光		</word>
+		<word>	   tar                  n.柏油，焦油		</word>
+		<word>	   team                 vi.协作，合作		</word>
+		<word>	   tease                vt.逗乐，戏弄；强求		</word>
+		<word>	   telex                n.电传，用户电报		</word>
+		<word>	   tempt                vt.引诱，诱惑，劝诱		</word>
+		<word>	   tensile              a.张力的；能伸长的		</word>
+		<word>	   terminal             n.计算机终端；线接头		</word>
+		<word>	   terminate            vt.&vi.停止，终止		</word>
+		<word>	   terminology          n.术语学，术语		</word>
+		<word>	   terrace              n.平台，阳台，露台		</word>
+		<word>	   terrify              vt.使恐怖，使惊吓		</word>
+		<word>	   terrorist            n.恐怖分子		</word>
+		<word>	   testify              v.证明，证实，作证		</word>
+		<word>	   Thanksgiving         n.感恩节		</word>
+		<word>	   theatre              n.戏剧效果		</word>
+		<word>	   theft                n.盗窃，偷窃(行为)		</word>
+		<word>	   theme                n.题目；词干；主旋律		</word>
+		<word>	   theorem              n.定理；原理，原则		</word>
+		<word>	   theory               n.见解，看法，推测		</word>
+		<word>	   thereafter           ad.此后，以后		</word>
+		<word>	   therein              ad.在那里，在那时		</word>
+		<word>	   thereof              ad.它的，其；由此		</word>
+		<word>	   thermal              a.热的；温泉的		</word>
+		<word>	   thesis               n.论题，论点；论文		</word>
+		<word>	   thicken              vt.使变厚(或粗、密)		</word>
+		<word>	   thigh                n.股，大腿		</word>
+		<word>	   thorough             a.精心的；详尽的		</word>
+		<word>	   thoughtless          a.欠考虑的；自私的		</word>
+		<word>	   thrash               vt.痛打，鞭打 vi.打		</word>
+		<word>	   thresh               vt.打谷，脱粒；推敲		</word>
+		<word>	   threshold            n.门槛；入门，开端		</word>
+		<word>	   thrifty              a.节俭的；兴旺的		</word>
+		<word>	   thrill               vt.&vi.(使)激动		</word>
+		<word>	   through              prep.因为，由于		</word>
+		<word>	   ticket               n.(交通违章)罚款传票		</word>
+		<word>	   tickle               vt.挠，胳肢；逗乐		</word>
+		<word>	   tighten              vt.&vi.(使)变紧		</word>
+		<word>	   tightly              ad.紧地，牢固地		</word>
+		<word>	   tile                 n.瓦片，瓷砖；贴砖		</word>
+		<word>	   tilt                 vt.&vi.(使)倾斜		</word>
+		<word>	   timely               a.及时的；适时的		</word>
+		<word>	   tiresome             a.使人厌倦的，讨厌的		</word>
+		<word>	   toad                 n.蟾蜍，癞蛤蟆		</word>
+		<word>	   token                n.象征；辅币；纪念品		</word>
+		<word>	   tolerant             a.容忍的；有耐力的		</word>
+		<word>	   tone                 n.色调，光度；风气		</word>
+		<word>	   torment              n.痛苦 vt.折磨		</word>
+		<word>	   torpedo              n.鱼雷，水雷		</word>
+		<word>	   torque               n.转(力)矩，扭(力)矩		</word>
+		<word>	   toss                 vi.翻来复去		</word>
+		<word>	   tow                  vt.&n.拖引，牵引		</word>
+		<word>	   towards              prep.为了，有助于		</word>
+		<word>	   tower                vi.高耸，屹立；翱翔		</word>
+		<word>	   track                vi.留下足迹		</word>
+		<word>	   trade                vi.做买卖；交换		</word>
+		<word>	   trader               n.商人；商船		</word>
+		<word>	   tradesman            n.商人；手艺人		</word>
+		<word>	   tragic               a.悲剧性的，悲惨的		</word>
+		<word>	   tramp                vt.&vi.&n.步行，跋涉		</word>
+		<word>	   trample              vt.&vi.&n.践踏，蹂躏		</word>
+		<word>	   tranquil             a.平静的；稳定的		</word>
+		<word>	   transaction          n.处理；交易；和解		</word>
+		<word>	   transform            vt.变压；变换		</word>
+		<word>	   transition           n.转变，变迁；过渡		</word>
+		<word>	   transmission         n.遗传，传染		</word>
+		<word>	   transplant           vt.&vi.移植，移种		</word>
+		<word>	   transverse           a.横切的 n.横轴		</word>
+		<word>	   traverse             vt.横越，横切，横断		</word>
+		<word>	   tread                vi.&vt.踩，踏，践踏		</word>
+		<word>	   treasurer            n.司库，财务主管		</word>
+		<word>	   trench               n.深沟；壕沟，战壕		</word>
+		<word>	   triangular           a.三角的；三者间的		</word>
+		<word>	   tribute              n.贡物；献礼，贡献		</word>
+		<word>	   trifle               vi.玩忽；闲混；嬉耍		</word>
+		<word>	   trigger              n.扳机 vt.触发，引起		</word>
+		<word>	   triumphant           a.得胜的；得意洋洋的		</word>
+		<word>	   trivial              a.琐碎的；平常的		</word>
+		<word>	   trolley              n.手推车；无轨电车		</word>
+		<word>	   troop                n.一群，一队，大量		</word>
+		<word>	   tropic               n.热带地区；回归线		</word>
+		<word>	   tropical             a.热带的；炎热的		</word>
+		<word>	   trot                 vi.&n.(马)小跑，慢跑		</word>
+		<word>	   troublesome          a.累赘的，困难的		</word>
+		<word>	   tuberculosis         n.结核病，肺结核		</word>
+		<word>	   tug                  vi.用力拖 n.猛拉，拖		</word>
+		<word>	   tulip                n.郁金香		</word>
+		<word>	   tuna                 n.金枪鱼		</word>
+		<word>	   turtle               n.海龟，玳瑁；甲鱼肉		</word>
+		<word>	   tutor                vt.教，指导		</word>
+		<word>	   twilight             n.黎明，黄昏；曙光		</word>
+		<word>	   twist                v.歪曲，曲解		</word>
+		<word>	   tyranny              n.暴政，专制；残暴		</word>
+		<word>	   tyrant               n.暴君；专制君主		</word>
+		<word>	   ultimate             a.基本的，首要的		</word>
+		<word>	   ultrasonic           a.超声的 n.超声波		</word>
+		<word>	   ultraviolet          a.紫外的n.紫外线辐射		</word>
+		<word>	   unanimous            a.(全体)一致的		</word>
+		<word>	   uncertain            a.不定的；无常的		</word>
+		<word>	   underestimate        vt.低估，看轻		</word>
+		<word>	   underline            vt.着重；预告		</word>
+		<word>	   undertake            vt.约定，保证；从事		</word>
+		<word>	   undertaking          n.任务，事业；承担		</word>
+		<word>	   underwear            n.衫衣，内衣，贴身衣		</word>
+		<word>	   undesirable          a.不合需要的；讨厌的		</word>
+		<word>	   uneasy               a.不安的；拘束的		</word>
+		<word>	   unemployment         n.失业；失业人数		</word>
+		<word>	   unfit                a.不合适的；无能力的		</word>
+		<word>	   unfold               vt.展开 vi.呈现		</word>
+		<word>	   uniformly            ad.相同地；一贯		</word>
+		<word>	   unique               a.无可匹敌的；极好的		</word>
+		<word>	   universally          ad.普遍地，一般地		</word>
+		<word>	   unlimited            a.无限的；不定的		</word>
+		<word>	   unlock               vt.开…的锁；开启		</word>
+		<word>	   unpaid               a.未付的；不支薪水的		</word>
+		<word>	   unreasonable         a.不讲道理的；过度的		</word>
+		<word>	   untie                vt.解开，松开；解放		</word>
+		<word>	   uphold               vt.举起；支撑；赞成		</word>
+		<word>	   uproar               n.骚动，扰乱；喧嚣		</word>
+		<word>	   uranium              n.铀		</word>
+		<word>	   urge                 vt.&vi.强烈希望		</word>
+		<word>	   usage                n.习惯法		</word>
+		<word>	   utensil              n.器皿，用具		</word>
+		<word>	   utilization          n.利用，效用		</word>
+		<word>	   vaccinate            vt.给…种牛痘		</word>
+		<word>	   validity             n.有效，效力；正确		</word>
+		<word>	   valuable             n.贵重物品，财宝		</word>
+		<word>	   value                vt.尊重，重视，评价		</word>
+		<word>	   valve                n.阀，阀门；电子管		</word>
+		<word>	   vault                n.拱顶；地下室，地窖		</word>
+		<word>	   vector               n.矢量；飞机航线		</word>
+		<word>	   veil                 vt.以面纱遮掩vi.遮盖		</word>
+		<word>	   vein                 n.静脉，血管，矿脉		</word>
+		<word>	   velocity             n.迅速，快速		</word>
+		<word>	   velvet               a.丝绒制的；柔软的		</word>
+		<word>	   vengeance            n.报复，报仇，复仇		</word>
+		<word>	   ventilate            vt.使通风，使换气		</word>
+		<word>	   Venus                n.维纳斯；美人；色情		</word>
+		<word>	   verge                n.边缘，边界，界限		</word>
+		<word>	   versatile            a.多方面的；通用的		</word>
+		<word>	   verse                n.诗，韵文；诗行		</word>
+		<word>	   version              n.解释		</word>
+		<word>	   versus               prep.(比赛等中)对		</word>
+		<word>	   veto                 n.否决，否决权，禁止		</word>
+		<word>	   vicinity             n.邻近；附近地区		</word>
+		<word>	   vicious              a.邪恶的；恶性的		</word>
+		<word>	   video                a.录象的		</word>
+		<word>	   vigorous             a.精力旺盛的，茁壮的		</word>
+		<word>	   vigour               n.活力，精力；元气		</word>
+		<word>	   villa                n.别墅；城郊小屋		</word>
+		<word>	   vine                 n.蔓，藤，藤本植物		</word>
+		<word>	   violate              vt.违犯，违背；侵犯		</word>
+		<word>	   violation            n.违犯；侵犯，妨碍		</word>
+		<word>	   violent              a.狂暴的；歪曲的		</word>
+		<word>	   virgin               n.处女 a.处女的		</word>
+		<word>	   virtual              a.实际上的，实质上的		</word>
+		<word>	   visa                 n.签证		</word>
+		<word>	   viscous              a.粘滞的，粘性的		</word>
+		<word>	   vision               n.视力；眼光，想象力		</word>
+		<word>	   visit                vt.常去		</word>
+		<word>	   vital                a.生命的，生机的		</word>
+		<word>	   vitamin              n.维生素，维他命		</word>
+		<word>	   vocabulary           n.词汇表，词汇汇编		</word>
+		<word>	   vocation             n.职业，行业		</word>
+		<word>	   void                 a.空的；无效的		</word>
+		<word>	   volunteer            n.志愿者 vt.志愿		</word>
+		<word>	   vow                  n.誓言，誓约，许愿		</word>
+		<word>	   vowel                n.元音；元音字母		</word>
+		<word>	   vulgar               a.粗俗的，庸俗的		</word>
+		<word>	   wade                 vt.趟(河)，跋涉		</word>
+		<word>	   wag                  vt.摇，摇摆，摆动		</word>
+		<word>	   waggon               n.敞蓬车厢		</word>
+		<word>	   waitress             n.女侍者，女服务员		</word>
+		<word>	   walnut               n.胡桃，核桃树		</word>
+		<word>	   ward                 n.病房，病室；监房		</word>
+		<word>	   wardrobe             n.衣柜，衣橱，藏衣室		</word>
+		<word>	   ware                 n.商品，货物；物品		</word>
+		<word>	   warehouse            n.仓库，货栈		</word>
+		<word>	   warfare              n.战争，战争状态		</word>
+		<word>	   warning              n.警告，告诫，鉴诫		</word>
+		<word>	   warrant              n.许可证，委任状		</word>
+		<word>	   wasp                 n.黄蜂，蚂蜂		</word>
+		<word>	   wasteful             a.浪费的；破坏性的		</word>
+		<word>	   watchful             a.注意的，警惕的		</word>
+		<word>	   watertight           a.不漏水的，防水的		</word>
+		<word>	   watery               a.水的；湿的；乏味的		</word>
+		<word>	   watt                 n.瓦(特)		</word>
+		<word>	   waver                vi.摇摆；犹豫不决		</word>
+		<word>	   way                  n.状态，状况，规模		</word>
+		<word>	   weaver               n.织布工，编织者		</word>
+		<word>	   web                  n.网，丝，网状物		</word>
+		<word>	   wedge                n.楔 vt.楔入；挤入		</word>
+		<word>	   whale                n.鲸；庞然大物		</word>
+		<word>	   wharf                n.码头，停泊所		</word>
+		<word>	   what                 a.所…的，尽可能多的		</word>
+		<word>	   whereby              ad.靠什么；靠那个		</word>
+		<word>	   whilst               conj.同…同时；然而		</word>
+		<word>	   whisker              n.髯，连鬓胡子		</word>
+		<word>	   whisper              vt.低声地讲，私下说		</word>
+		<word>	   white                a.白种(人)的		</word>
+		<word>	   whitewash            n.石灰水 vt.粉饰		</word>
+		<word>	   whoever              pron.究竟是谁		</word>
+		<word>	   wholesome            a.适合卫生的		</word>
+		<word>	   widely               ad.大大地		</word>
+		<word>	   wield                vt.挥(剑)；行使		</word>
+		<word>	   willow               n.柳树，柳木		</word>
+		<word>	   wind                 n.胸口，心窝		</word>
+		<word>	   winding              n.卷绕着的线a.卷曲的		</word>
+		<word>	   windmill             n.风车		</word>
+		<word>	   windy                a.多风的，刮风的		</word>
+		<word>	   wink                 vi.眨眼；使眼色		</word>
+		<word>	   wisdom               n.(古人的)名言，格言		</word>
+		<word>	   wither               vi.枯萎 vt.使衰弱		</word>
+		<word>	   whereas              conj.而，却，反之		</word>
+		<word>	   witty                a.机智的；风趣的		</word>
+		<word>	   woe                  n.悲哀，悲痛，苦恼		</word>
+		<word>	   woodpecker           n.啄木鸟		</word>
+		<word>	   workpiece            n.工(作)件		</word>
+		<word>	   workshop             n.专题讨论会		</word>
+		<word>	   worship              vt.崇拜 vi.做礼拜		</word>
+		<word>	   wrath                n.暴怒，狂怒，愤慨		</word>
+		<word>	   wrench               vt.拧，扭伤 n.拧		</word>
+		<word>	   wrestle              n.摔交；斗争，搏斗		</word>
+		<word>	   wretched             a.不幸的；卑鄙的		</word>
+		<word>	   wring                vt.拧，挤，扭，榨		</word>
+		<word>	   wrinkle              n.皱纹 vt.使起皱纹		</word>
+		<word>	   xerox                vt.&vi.用静电复印		</word>
+		<word>	   yacht                n.游艇，快艇		</word>
+		<word>	   yearn                vi.想念，怀念，向往		</word>
+		<word>	   yeast                n.酵母		</word>
+		<word>	   yoke                 n.轭，牛轭；枷锁		</word>
+		<word>	   yolk                 n.蛋黄，卵黄		</word>
+		<word>	   youngster            n.儿童，少年，年轻人		</word>
+		<word>	   zinc                 n.锌 vt.在…上镀锌		</word>
